@@ -4422,5 +4422,29 @@
     "semester": "Winter 2023",
     "average": "B+",
     "year": "1st"
+  },
+  {
+    "course": "HIS250",
+    "title": "History of Russia",
+    "campus": "UTSG",
+    "semester": "Fall 2022 - Winter 2023",
+    "average": "C+",
+    "year": "2nd"
+  },
+  {
+    "course": "HIS328",
+    "title": "Modern China",
+    "campus": "UTSG",
+    "semester": "Winter 2023",
+    "average": "B",
+    "year": "3rd"
+  },
+  {
+    "course": "HIS331",
+    "title": "Modern Baltic History",
+    "campus": "UTSG",
+    "semester": "Fall 2022",
+    "average": "B-",
+    "year": "3rd"
   }
 ]
