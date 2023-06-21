@@ -1,1 +1,54 @@
 /* You can add global styles to this file, and also import other style files */
+
+html, body { 
+    height: 100%; 
+}
+body { 
+    margin: 0 10px 0 10px; 
+    font-family: Roboto, "Helvetica Neue", sans-serif; 
+}
+
+.mat-sort-header-arrow { /* arrow when column is clicked */
+    color: white !important;
+  }
+  
+table.ElegantBlue {
+    font-size: 0.9em;
+    border-collapse: collapse;
+    border: 1px solid #b1c2d1;
+    width: 100%;
+}
+
+table.ElegantBlue thead {
+    border: 1px solid #b1c2d1 !important;
+  }
+
+  table.ElegantBlue tfoot {
+    border: 1px solid #b1c2d1 !important;
+  }
+
+  table.ElegantBlue tr td, table.ElegantBlue tr th {
+    cursor: default !important;
+  }
+
+  table.ElegantBlue tbody tr:nth-child(odd), table.ElegantBlue tfoot.nonStandardFooter tr:nth-child(odd) {
+    background-color: white !important;
+  }
+
+  table.ElegantBlue tbody tr:nth-child(even), table.ElegantBlue tfoot.nonStandardFooter tr:nth-child(even) {
+    background-color: #dfecff !important;
+  }
+
+table#BorrowingProfileList_ tfoot tr:first-child, table#BorrowingProfileList_ tfoot tr:nth-child(5) {
+  background-color: #bdcadd;
+}
+
+table.ElegantBlue thead tr th a {
+    color: white;
+  }
+
+table.ElegantBlue thead tr {
+  color: white; /*#dfecff;*/
+  background: rgb(3,75,137) !important; /*rgb(36,118,192);*/
+  text-shadow: 0px 0px 5px rgb(30,87,153);
+}
