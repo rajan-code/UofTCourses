@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>UofT Courses</title>
+</head>
+
+<body>
+  <h1>UofT Courses Database</h1>
+
+  <h2 style="margin-bottom: 0;">Filters</h2>
+  <form id="filters" style="padding-left: 10%;">
+    <div style="grid-column: 1 / 2;">
+      <h4 style="margin-bottom: 0;">Campus</h4>
+      <div *ngFor="let campus of campusesData">
+        <input type="checkbox" [checked]="campus.checked" (change)="onCheckboxChange(campus)" style="margin-left: 20px; margin-right: 0;"> {{ campus.name }}
+      </div>
+    </div>
+  
+    <div style="grid-column: 2 / 3; grid-row: 1 / 2;">
+      <h4 style="margin-bottom: 0;">Year</h4>
+      <div *ngFor="let year of yearsData">
+        <input type="checkbox" [checked]="year.checked" (change)="onCheckboxChange(year)" style="margin-left: 20px; margin-right: 0;"> {{ year.name }}
+      </div>
+    </div>
+    <div style="grid-column: 3 / 4; grid-row: 1 / 2;">
+      <h4 style="margin-bottom: 0;">Semester</h4>
+      <div *ngFor="let semester of semestersData">
+        <input type="checkbox" [checked]="semester.checked" (change)="onCheckboxChange(semester)" style="margin-left: 20px; margin-right: 0;"> {{ semester.name }}
+      </div>
+    </div>
+  </form>
+
+  <mat-form-field class="center">
+    <mat-label>Search</mat-label>
+    <input matInput [(ngModel)]="searchQuery" (input)="applyFilter()" placeholder="e.g. CSC148" #input>
+  </mat-form-field>
+
+  <div id="table" class="center" style="width: 70%;">
+    <table class="ElegantBlue mat-elevation-z8" mat-table [dataSource]="dataSource" matSort>
+      <ng-container matColumnDef="course">
+        <th class="header" mat-header-cell *matHeaderCellDef mat-sort-header> Course </th>
+        <td mat-cell *matCellDef="let element">{{ element.course }}</td>
+      </ng-container>
+      <ng-container matColumnDef="title">
+        <th class="header" mat-header-cell *matHeaderCellDef mat-sort-header style="text-align: center;"> Title </th>
+        <td mat-cell *matCellDef="let element">{{ element.title }}</td>
+      </ng-container>
+      <ng-container matColumnDef="semester">
+        <th class="header" mat-header-cell *matHeaderCellDef mat-sort-header> Semester </th>
+        <td mat-cell *matCellDef="let element">{{ element.semester }}</td>
+      </ng-container>
+      <ng-container matColumnDef="campus">
+        <th class="header" mat-header-cell *matHeaderCellDef mat-sort-header> Campus </th>
+        <td mat-cell *matCellDef="let element">{{ element.campus }}</td>
+      </ng-container>
+      <ng-container matColumnDef="average">
+        <th class="header" mat-header-cell *matHeaderCellDef mat-sort-header> Average </th>
+        <td mat-cell *matCellDef="let element"> {{ element.average }}</td>
+      </ng-container>
+
+      <tr mat-header-row *matHeaderRowDef="displayedColumns"></tr>
+      <tr mat-row *matRowDef="let row; columns: displayedColumns;"></tr>
+    </table>
+    <mat-paginator [pageSizeOptions]="[20, 30, 40]" aria-label="Select page"></mat-paginator>
+  </div>
+  <div style="text-align: center;">
+    <span style="display: block; font-size: 14px;">This data was generated from the following spreadsheets:
+      <a target="_blank" href="https://docs.google.com/spreadsheets/d/1cqcxrcIXoVKsspBXS3WBasdxiaECem2M1t-dGAKVqVU/edit#gid=0">1</a>, 
+      <a target="_blank" href="https://docs.google.com/spreadsheets/d/14gpDS1JD95rXYJ2DeUQ13Yq9NIXUYb6a-eR89lDUeBo/edit#gid=0">2</a>, 
+      <a target="_blank" href="https://docs.google.com/spreadsheets/d/1kWQL0ns_mo4ue6kRuCuo8BV-CwBl363bULLRr1la6XE/edit#gid=0">3</a>
+    </span><br>
+  </div>
+</body> 

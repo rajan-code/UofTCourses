@@ -1,0 +1,4426 @@
+[
+  {
+    "course": "ACT230",
+    "campus": "UTSG",
+    "semester": "Fall 2021",
+    "title": "Mathematics of Finance for Non-Actuaries",
+    "average": "D+",
+    "year": "2nd"
+  },
+  {
+    "course": "ACT240",
+    "campus": "UTSG",
+    "semester": "Fall 2021",
+    "title": "Mathematics of Investment & Credit",
+    "average": "C",
+    "year": "2nd"
+  },
+  {
+    "course": "ACT240",
+    "campus": "UTSG",
+    "semester": "Fall 2022",
+    "title": "Mathematics of Investment & Credit",
+    "average": "C-",
+    "year": "2nd"
+  },
+  {
+    "course": "ACT348",
+    "campus": "UTSG",
+    "semester": "Fall 2021",
+    "title": "Advanced Life Contingencies",
+    "average": "C+",
+    "year": "3rd"
+  },
+  {
+    "course": "ACT349",
+    "campus": "UTSG",
+    "semester": "Fall 2021",
+    "title": "Corporate Finance for Actuarial Science",
+    "average": "B+",
+    "year": "3rd"
+  },
+  {
+    "course": "ACT350",
+    "campus": "UTSG",
+    "semester": "Fall 2021",
+    "title": "Applied Probability for Actuarial Science",
+    "average": "B-",
+    "year": "3rd"
+  },
+  {
+    "course": "ACT370",
+    "campus": "UTSG",
+    "semester": "Winter 2022",
+    "title": "Financial Principles for Actuarial Science II",
+    "average": "B-",
+    "year": "3rd"
+  },
+  {
+    "course": "ACT451",
+    "campus": "UTSG",
+    "semester": "Fall 2022",
+    "title": "Loss Models",
+    "average": "B-",
+    "year": "4th"
+  },
+  {
+    "course": "ACT460",
+    "campus": "UTSG",
+    "semester": "Fall 2022",
+    "title": "Stochastic Methods for Actuarial Science",
+    "average": "B+",
+    "year": "4th"
+  },
+  {
+    "course": "ANA300",
+    "campus": "UTSG",
+    "semester": "Winter 2022",
+    "title": "Human Anatomy and Histology",
+    "average": "C+",
+    "year": "3rd"
+  },
+  {
+    "course": "ANA301",
+    "campus": "UTSG",
+    "semester": "Winter 2022",
+    "title": "Human Embryology",
+    "average": "C",
+    "year": "3rd"
+  },
+  {
+    "course": "ANT100",
+    "campus": "UTSG",
+    "semester": "Winter 2022",
+    "title": "Introduction to Anthropology",
+    "average": "B-",
+    "year": "1st"
+  },
+  {
+    "course": "APM346",
+    "campus": "UTSG",
+    "semester": "Winter 2022",
+    "title": "Partial Differential Equations",
+    "average": "B-",
+    "year": "3rd"
+  },
+  {
+    "course": "APM462",
+    "campus": "UTSG",
+    "semester": "Fall 2021",
+    "title": "Nonlinear Optimization",
+    "average": "C+",
+    "year": "4th"
+  },
+  {
+    "course": "APM462",
+    "campus": "UTSG",
+    "semester": "Winter 2022",
+    "title": "Nonlinear Optimization",
+    "average": "C-",
+    "year": "4th"
+  },
+  {
+    "course": "APM466",
+    "campus": "UTSG",
+    "semester": "Winter 2022",
+    "title": "Mathematical Theory of Finance",
+    "average": "B+",
+    "year": "4th"
+  },
+  {
+    "course": "APS110",
+    "campus": "UTSG",
+    "semester": "Fall 2021",
+    "title": "",
+    "average": "B",
+    "year": "1st"
+  },
+  {
+    "course": "APS110",
+    "campus": "UTSG",
+    "semester": "Fall 2022",
+    "title": "",
+    "average": "B",
+    "year": "1st"
+  },
+  {
+    "course": "APS111",
+    "campus": "UTSG",
+    "semester": "Fall 2021",
+    "title": "",
+    "average": "B",
+    "year": "1st"
+  },
+  {
+    "course": "APS111",
+    "campus": "UTSG",
+    "semester": "Fall 2022",
+    "title": "",
+    "average": "B-",
+    "year": "1st"
+  },
+  {
+    "course": "AST101",
+    "campus": "UTSG",
+    "semester": "Fall 2021",
+    "title": "The Sun and Its Neighbours",
+    "average": "B+",
+    "year": "1st"
+  },
+  {
+    "course": "AST101",
+    "campus": "UTSG",
+    "semester": "Fall 2022",
+    "title": "The Sun and Its Neighbours",
+    "average": "C+",
+    "year": "1st"
+  },
+  {
+    "course": "AST201",
+    "campus": "UTSG",
+    "semester": "Winter 2022",
+    "title": "Stars and Galaxies",
+    "average": "B",
+    "year": "2nd"
+  },
+  {
+    "course": "AST221",
+    "campus": "UTSG",
+    "semester": "Fall 2021",
+    "title": "Stars and Planets",
+    "average": "B-",
+    "year": "2nd"
+  },
+  {
+    "course": "BCH210",
+    "campus": "UTSG",
+    "semester": "Fall 2021",
+    "title": "Biochemistry I: Proteins, Lipids and Metabolism",
+    "average": "B",
+    "year": "2nd"
+  },
+  {
+    "course": "BCH210",
+    "campus": "UTSG",
+    "semester": "Fall 2022",
+    "title": "Biochemistry I: Proteins, Lipids and Metabolism",
+    "average": "C+",
+    "year": "2nd"
+  },
+  {
+    "course": "BCH311",
+    "campus": "UTSG",
+    "semester": "Winter 2022",
+    "title": "Biochemistry II: Nucleic Acids and Biological Information Flow",
+    "average": "B+",
+    "year": "3rd"
+  },
+  {
+    "course": "BCH340",
+    "campus": "UTSG",
+    "semester": "Winter 2022",
+    "title": "Proteins: From Structure to Function",
+    "average": "B+",
+    "year": "3rd"
+  },
+  {
+    "course": "BCH370",
+    "campus": "UTSG",
+    "semester": "Winter 2022",
+    "title": "Laboratory Course in Biochemical Techniques",
+    "average": "A-",
+    "year": "3rd"
+  },
+  {
+    "course": "BCH428",
+    "campus": "UTSG",
+    "semester": "Fall 2021",
+    "title": "Genomics of Microbial Communities in Human Health and Beyond",
+    "average": "A-",
+    "year": "4th"
+  },
+  {
+    "course": "BIO120",
+    "campus": "UTSG",
+    "semester": "Fall 2021",
+    "title": "Adaptation and Biodiversity",
+    "average": "B",
+    "year": "1st"
+  },
+  {
+    "course": "BIO120",
+    "campus": "UTSG",
+    "semester": "Fall 2022",
+    "title": "Adaptation and Biodiversity",
+    "average": "B-",
+    "year": "1st"
+  },
+  {
+    "course": "BIO130",
+    "campus": "UTSG",
+    "semester": "Winter 2022",
+    "title": "Molecular and Cell Biology",
+    "average": "B",
+    "year": "1st"
+  },
+  {
+    "course": "BIO220",
+    "campus": "UTSG",
+    "semester": "Winter 2022",
+    "title": "From Genomes to Ecosystems in a Changing World",
+    "average": "B-",
+    "year": "2nd"
+  },
+  {
+    "course": "BIO230",
+    "campus": "UTSG",
+    "semester": "Fall 2021",
+    "title": "From Genes to Organisms",
+    "average": "B",
+    "year": "2nd"
+  },
+  {
+    "course": "BIO230",
+    "campus": "UTSG",
+    "semester": "Fall 2022",
+    "title": "From Genes to Organisms",
+    "average": "B",
+    "year": "2nd"
+  },
+  {
+    "course": "BIO251",
+    "campus": "UTSG",
+    "semester": "Winter 2022",
+    "title": "Form, Function and Development in Plants",
+    "average": "B-",
+    "year": "2nd"
+  },
+  {
+    "course": "BMS100",
+    "campus": "UTSG",
+    "semester": "Winter 2022",
+    "title": "Introduction to Book & Media Studies",
+    "average": "C+",
+    "year": "1st"
+  },
+  {
+    "course": "BPM335",
+    "campus": "UTSG",
+    "semester": "Fall 2021",
+    "title": "Meditation and the Body",
+    "average": "B+",
+    "year": "3rd"
+  },
+  {
+    "course": "CAS310",
+    "campus": "UTSG",
+    "semester": "Fall 2022",
+    "title": "Comparative Colonialisms in Asia",
+    "average": "C+",
+    "year": "3rd"
+  },
+  {
+    "course": "CAS350",
+    "campus": "UTSG",
+    "semester": "Fall 2022",
+    "title": "Asian Youth Cultures",
+    "average": "B-",
+    "year": "3rd"
+  },
+  {
+    "course": "CHM135",
+    "campus": "UTSG",
+    "semester": "Fall 2021",
+    "title": "Chemistry: Physical Principles",
+    "average": "B",
+    "year": "1st"
+  },
+  {
+    "course": "CHM135",
+    "campus": "UTSG",
+    "semester": "Fall 2022",
+    "title": "Chemistry: Physical Principles",
+    "average": "B-",
+    "year": "1st"
+  },
+  {
+    "course": "CHM136",
+    "campus": "UTSG",
+    "semester": "Winter 2022",
+    "title": "Introductory Organic Chemistry I",
+    "average": "B",
+    "year": "1st"
+  },
+  {
+    "course": "CHM151",
+    "campus": "UTSG",
+    "semester": "Winter 2022",
+    "title": "Chemistry: The Molecular Science",
+    "average": "B-",
+    "year": "1st"
+  },
+  {
+    "course": "CHM220",
+    "campus": "UTSG",
+    "semester": "Fall 2021",
+    "title": "Physical Chemistry for Life Sciences",
+    "average": "B+",
+    "year": "2nd"
+  },
+  {
+    "course": "CHM220",
+    "campus": "UTSG",
+    "semester": "Fall 2022",
+    "title": "Physical Chemistry for Life Sciences",
+    "average": "B+",
+    "year": "2nd"
+  },
+  {
+    "course": "CHM247",
+    "campus": "UTSG",
+    "semester": "Winter 2022",
+    "title": "Introductory Organic Chemistry II",
+    "average": "B-",
+    "year": "2nd"
+  },
+  {
+    "course": "CHM327",
+    "campus": "UTSG",
+    "semester": "Fall 2021",
+    "title": "Experimental Physical Chemistry",
+    "average": "A-",
+    "year": "3rd"
+  },
+  {
+    "course": "CHM410",
+    "campus": "UTSG",
+    "semester": "Fall 2021",
+    "title": "Analytical Environmental Chemistry",
+    "average": "B",
+    "year": "4th"
+  },
+  {
+    "course": "CIV100",
+    "campus": "UTSG",
+    "semester": "Fall 2021",
+    "title": "",
+    "average": "C+",
+    "year": "1st"
+  },
+  {
+    "course": "CIV100",
+    "campus": "UTSG",
+    "semester": "Fall 2022",
+    "title": "",
+    "average": "C-",
+    "year": "1st"
+  },
+  {
+    "course": "CJH332",
+    "campus": "UTSG",
+    "semester": "Winter 2022",
+    "title": "Cellular and Molecular Neurobiology of the Synapse",
+    "average": "B+",
+    "year": "3rd"
+  },
+  {
+    "course": "CLA160",
+    "campus": "UTSG",
+    "semester": "Fall 2021",
+    "title": "Introduction to Classical Studies",
+    "average": "B",
+    "year": "1st"
+  },
+  {
+    "course": "CLA201",
+    "campus": "UTSG",
+    "semester": "Winter 2022",
+    "title": "Latin & Greek in Scientific Terminology",
+    "average": "C+",
+    "year": "2nd"
+  },
+  {
+    "course": "CLA204",
+    "campus": "UTSG",
+    "semester": "Fall 2021",
+    "title": "Introduction to Classical Mythology",
+    "average": "B+",
+    "year": "2nd"
+  },
+  {
+    "course": "CLA204",
+    "campus": "UTSG",
+    "semester": "Winter 2022",
+    "title": "Introduction to Classical Mythology",
+    "average": "B",
+    "year": "2nd"
+  },
+  {
+    "course": "CLA210",
+    "campus": "UTSG",
+    "semester": "Winter 2022",
+    "title": "Greek and Roman Archaeology",
+    "average": "C+",
+    "year": "2nd"
+  },
+  {
+    "course": "COG250",
+    "campus": "UTSG",
+    "semester": "Winter 2022",
+    "title": "Introduction to Cognitive Science",
+    "average": "B-",
+    "year": "2nd"
+  },
+  {
+    "course": "CRI210",
+    "campus": "UTSG",
+    "semester": "Winter 2022",
+    "title": "Criminal Justice",
+    "average": "B+",
+    "year": "2nd"
+  },
+  {
+    "course": "CRI385",
+    "campus": "UTSG",
+    "semester": "Winter 2022",
+    "title": "Representing Crime and Authority",
+    "average": "B",
+    "year": "3rd"
+  },
+  {
+    "course": "CSB328",
+    "campus": "UTSG",
+    "semester": "Fall 2021",
+    "title": "Animal Developmental Biology",
+    "average": "B+",
+    "year": "3rd"
+  },
+  {
+    "course": "CSB340",
+    "campus": "UTSG",
+    "semester": "Fall 2022",
+    "title": "Plant Development",
+    "average": "B+",
+    "year": "3rd"
+  },
+  {
+    "course": "CSB349",
+    "campus": "UTSG",
+    "semester": "Fall 2021",
+    "title": "Eukaryotic Gene Expression",
+    "average": "A-",
+    "year": "3rd"
+  },
+  {
+    "course": "CSB349",
+    "campus": "UTSG",
+    "semester": "Fall 2022",
+    "title": "Eukaryotic Gene Expression",
+    "average": "A-",
+    "year": "3rd"
+  },
+  {
+    "course": "CSB350",
+    "campus": "UTSG",
+    "semester": "Fall 2022",
+    "title": "Laboratory in Molecular Plant Biology",
+    "average": "B-",
+    "year": "3rd"
+  },
+  {
+    "course": "CSB460",
+    "campus": "UTSG",
+    "semester": "Fall 2022",
+    "title": "Plant Signal Transduction",
+    "average": "B",
+    "year": "4th"
+  },
+  {
+    "course": "CSC108",
+    "campus": "UTSG",
+    "semester": "Fall 2021",
+    "title": "Introduction to Computer Programming",
+    "average": "B",
+    "year": "1st"
+  },
+  {
+    "course": "CSC108",
+    "campus": "UTSG",
+    "semester": "Fall 2022",
+    "title": "Introduction to Computer Programming",
+    "average": "B-",
+    "year": "1st"
+  },
+  {
+    "course": "CSC110",
+    "campus": "UTSG",
+    "semester": "Fall 2022",
+    "title": "Foundations of Computer Science I",
+    "average": "B+",
+    "year": "1st"
+  },
+  {
+    "course": "CSC111",
+    "campus": "UTSG",
+    "semester": "Winter 2022",
+    "title": "Foundations of Computer Science II",
+    "average": "A-",
+    "year": "1st"
+  },
+  {
+    "course": "CSC148",
+    "campus": "UTSG",
+    "semester": "Winter 2022",
+    "title": "Introduction to Computer Science",
+    "average": "B-",
+    "year": "1st"
+  },
+  {
+    "course": "CSC165",
+    "campus": "UTSG",
+    "semester": "Winter 2022",
+    "title": "Mathematical Expression and Reasoning for Computer Science",
+    "average": "B-",
+    "year": "1st"
+  },
+  {
+    "course": "CSC196",
+    "campus": "UTSG",
+    "semester": "Fall 2021",
+    "title": "Great Ideas in Computing",
+    "average": "B",
+    "year": "1st"
+  },
+  {
+    "course": "CSC207",
+    "campus": "UTSG",
+    "semester": "Fall 2021",
+    "title": "Software Design",
+    "average": "A-",
+    "year": "2nd"
+  },
+  {
+    "course": "CSC207",
+    "campus": "UTSG",
+    "semester": "Fall 2022",
+    "title": "Software Design",
+    "average": "B+",
+    "year": "2nd"
+  },
+  {
+    "course": "CSC209",
+    "campus": "UTSG",
+    "semester": "Winter 2022",
+    "title": "Software Tools and Systems Programming",
+    "average": "B",
+    "year": "2nd"
+  },
+  {
+    "course": "CSC236",
+    "campus": "UTSG",
+    "semester": "Fall 2021",
+    "title": "Introduction to the Theory of Computation",
+    "average": "A+",
+    "year": "2nd"
+  },
+  {
+    "course": "CSC236",
+    "campus": "UTSG",
+    "semester": "Fall 2022",
+    "title": "Introduction to the Theory of Computation",
+    "average": "B",
+    "year": "2nd"
+  },
+  {
+    "course": "CSC240",
+    "campus": "UTSG",
+    "semester": "Winter 2022",
+    "title": "Enriched Introduction to the Theory of Computation",
+    "average": "B-",
+    "year": "2nd"
+  },
+  {
+    "course": "CSC258",
+    "campus": "UTSG",
+    "semester": "Winter 2022",
+    "title": "Computer Organization",
+    "average": "B+",
+    "year": "2nd"
+  },
+  {
+    "course": "CSC258",
+    "campus": "UTSG",
+    "semester": "Fall 2022",
+    "title": "Computer Organization",
+    "average": "A-",
+    "year": "2nd"
+  },
+  {
+    "course": "CSC263",
+    "campus": "UTSG",
+    "semester": "Fall 2021",
+    "title": "Data Structures and Analysis",
+    "average": "C+",
+    "year": "2nd"
+  },
+  {
+    "course": "CSC263",
+    "campus": "UTSG",
+    "semester": "Winter 2022",
+    "title": "Data Structures and Analysis",
+    "average": "C+",
+    "year": "2nd"
+  },
+  {
+    "course": "CSC300",
+    "campus": "UTSG",
+    "semester": "Fall 2021",
+    "title": "Computers and Society",
+    "average": "A-",
+    "year": "3rd"
+  },
+  {
+    "course": "CSC303",
+    "campus": "UTSG",
+    "semester": "Winter 2022",
+    "title": "Social and Information Networks",
+    "average": "B+",
+    "year": "3rd"
+  },
+  {
+    "course": "CSC304",
+    "campus": "UTSG",
+    "semester": "Fall 2022",
+    "title": "Algorithmic Game Theory and Mechanism Design",
+    "average": "B+",
+    "year": "3rd"
+  },
+  {
+    "course": "CSC317",
+    "campus": "UTSG",
+    "semester": "Winter 2022",
+    "title": "Computer Graphics",
+    "average": "A-",
+    "year": "3rd"
+  },
+  {
+    "course": "CSC318",
+    "campus": "UTSG",
+    "semester": "Winter 2022",
+    "title": "The Design of Interactive Computational Media",
+    "average": "B+",
+    "year": "3rd"
+  },
+  {
+    "course": "CSC324",
+    "campus": "UTSG",
+    "semester": "Winter 2022",
+    "title": "Principles of Programming Languages",
+    "average": "B",
+    "year": "3rd"
+  },
+  {
+    "course": "CSC336",
+    "campus": "UTSG",
+    "semester": "Fall 2022",
+    "title": "Numerical Methods",
+    "average": "B",
+    "year": "3rd"
+  },
+  {
+    "course": "CSC343",
+    "campus": "UTSG",
+    "semester": "Winter 2022",
+    "title": "Introduction to Databases",
+    "average": "B+",
+    "year": "3rd"
+  },
+  {
+    "course": "CSC343",
+    "campus": "UTSG",
+    "semester": "Fall 2022",
+    "title": "Introduction to Databases",
+    "average": "B",
+    "year": "3rd"
+  },
+  {
+    "course": "CSC369",
+    "campus": "UTSG",
+    "semester": "Winter 2022",
+    "title": "Operating Systems",
+    "average": "B-",
+    "year": "3rd"
+  },
+  {
+    "course": "CSC373",
+    "campus": "UTSG",
+    "semester": "Winter 2022",
+    "title": "Algorithm Design, Analysis & Complexity",
+    "average": "B+",
+    "year": "3rd"
+  },
+  {
+    "course": "CSC385",
+    "campus": "UTSG",
+    "semester": "Winter 2022",
+    "title": "Microprocessor Systems",
+    "average": "A-",
+    "year": "3rd"
+  },
+  {
+    "course": "CSC401",
+    "campus": "UTSG",
+    "semester": "Winter 2022",
+    "title": "Natural Language Computing",
+    "average": "B",
+    "year": "4th"
+  },
+  {
+    "course": "CSC404",
+    "campus": "UTSG",
+    "semester": "Winter 2022",
+    "title": "Introduction to Video Game Design",
+    "average": "A-",
+    "year": "4th"
+  },
+  {
+    "course": "CSC410",
+    "campus": "UTSG",
+    "semester": "Fall 2022",
+    "title": "Software Testing and Verification",
+    "average": "B-",
+    "year": "4th"
+  },
+  {
+    "course": "CSC412",
+    "campus": "UTSG",
+    "semester": "Winter 2022",
+    "title": "Probabilistic Learning and Reasoning",
+    "average": "B+",
+    "year": "4th"
+  },
+  {
+    "course": "CSC413",
+    "campus": "UTSG",
+    "semester": "Winter 2022",
+    "title": "Neural Networks and Deep Learning",
+    "average": "A-",
+    "year": "4th"
+  },
+  {
+    "course": "CSC458",
+    "campus": "UTSG",
+    "semester": "Fall 2022",
+    "title": "Computer Networking Systems",
+    "average": "B",
+    "year": "4th"
+  },
+  {
+    "course": "CSC463",
+    "campus": "UTSG",
+    "semester": "Fall 2022",
+    "title": "Computational Complexity and Computability",
+    "average": "B-",
+    "year": "4th"
+  },
+  {
+    "course": "CSC485",
+    "campus": "UTSG",
+    "semester": "Fall 2022",
+    "title": "Computational Linguistics",
+    "average": "B",
+    "year": "4th"
+  },
+  {
+    "course": "CSC488",
+    "campus": "UTSG",
+    "semester": "Winter 2022",
+    "title": "Compilers and Interpreters",
+    "average": "B+",
+    "year": "4th"
+  },
+  {
+    "course": "CSE240",
+    "campus": "UTSG",
+    "semester": "Fall 2021",
+    "title": "Introduction to Critical Equity and Solidarity Studies",
+    "average": "B-",
+    "year": "2nd"
+  },
+  {
+    "course": "DHU235",
+    "campus": "UTSG",
+    "semester": "Fall 2021",
+    "title": "Introduction to Digital Humanities",
+    "average": "B",
+    "year": "2nd"
+  },
+  {
+    "course": "EAS103",
+    "campus": "UTSG",
+    "semester": "Fall 2022",
+    "title": "Premodern East Asia",
+    "average": "B-",
+    "year": "1st"
+  },
+  {
+    "course": "ECE316",
+    "campus": "UTSG",
+    "semester": "Winter 2022",
+    "title": "",
+    "average": "B",
+    "year": "3rd"
+  },
+  {
+    "course": "ECE462",
+    "campus": "UTSG",
+    "semester": "Winter 2022",
+    "title": "",
+    "average": "B+",
+    "year": "4th"
+  },
+  {
+    "course": "ECE470",
+    "campus": "UTSG",
+    "semester": "Winter 2022",
+    "title": "",
+    "average": "B+",
+    "year": "4th"
+  },
+  {
+    "course": "ECE496",
+    "campus": "UTSG",
+    "semester": "Winter 2022",
+    "title": "",
+    "average": "A-",
+    "year": "4th"
+  },
+  {
+    "course": "ECO101",
+    "campus": "UTSG",
+    "semester": "Fall 2021",
+    "title": "Principles of Microeconomics",
+    "average": "C+",
+    "year": "1st"
+  },
+  {
+    "course": "ECO101",
+    "campus": "UTSG",
+    "semester": "Winter 2022",
+    "title": "Principles of Microeconomics",
+    "average": "C",
+    "year": "1st"
+  },
+  {
+    "course": "ECO101",
+    "campus": "UTSG",
+    "semester": "Fall 2022",
+    "title": "Principles of Microeconomics",
+    "average": "C+",
+    "year": "1st"
+  },
+  {
+    "course": "ECO102",
+    "campus": "UTSG",
+    "semester": "Winter 2022",
+    "title": "Principles of Macroeconomics",
+    "average": "C+",
+    "year": "1st"
+  },
+  {
+    "course": "ECO105",
+    "campus": "UTSG",
+    "semester": "Winter 2022",
+    "title": "Principles of Economics for Non-Specialists",
+    "average": "C+",
+    "year": "1st"
+  },
+  {
+    "course": "ECO204",
+    "campus": "UTSG",
+    "semester": "Winter 2022",
+    "title": "Microeconomic Theory and Applications (for Commerce)",
+    "average": "C+",
+    "year": "2nd"
+  },
+  {
+    "course": "ECO209",
+    "campus": "UTSG",
+    "semester": "Winter 2022",
+    "title": "Macroeconomic Theory and Policy (for Commerce)",
+    "average": "B-",
+    "year": "2nd"
+  },
+  {
+    "course": "ECO220",
+    "campus": "UTSG",
+    "semester": "Winter 2022",
+    "title": "Introduction to Data Analysis and Applied Econometrics",
+    "average": "C+",
+    "year": "2nd"
+  },
+  {
+    "course": "ECO316",
+    "campus": "UTSG",
+    "semester": "Fall 2022",
+    "title": "Applied Game Theory",
+    "average": "B",
+    "year": "3rd"
+  },
+  {
+    "course": "ECO320",
+    "campus": "UTSG",
+    "semester": "Fall 2022",
+    "title": "Economic Analysis of Law",
+    "average": "B-",
+    "year": "3rd"
+  },
+  {
+    "course": "ECO322",
+    "campus": "UTSG",
+    "semester": "Winter 2022",
+    "title": "Canadian Economic History, 1850-1960",
+    "average": "C+",
+    "year": "3rd"
+  },
+  {
+    "course": "ECO333",
+    "campus": "UTSG",
+    "semester": "Fall 2022",
+    "title": "Urban Economics",
+    "average": "B-",
+    "year": "3rd"
+  },
+  {
+    "course": "ECO349",
+    "campus": "UTSG",
+    "semester": "Winter 2022",
+    "title": "Money, Banking and Financial Markets",
+    "average": "B",
+    "year": "3rd"
+  },
+  {
+    "course": "ECO358",
+    "campus": "UTSG",
+    "semester": "Fall 2021",
+    "title": "Financial Economics I",
+    "average": "B-",
+    "year": "3rd"
+  },
+  {
+    "course": "ECO359",
+    "campus": "UTSG",
+    "semester": "Winter 2022",
+    "title": "Financial Economics II: Corporate Finance",
+    "average": "B",
+    "year": "3rd"
+  },
+  {
+    "course": "ECO364",
+    "campus": "UTSG",
+    "semester": "Fall 2022",
+    "title": "International Trade Theory",
+    "average": "B",
+    "year": "3rd"
+  },
+  {
+    "course": "ECO367",
+    "campus": "UTSG",
+    "semester": "Fall 2022",
+    "title": "The Economics of Inequality",
+    "average": "B",
+    "year": "3rd"
+  },
+  {
+    "course": "ECO372",
+    "campus": "UTSG",
+    "semester": "Fall 2022",
+    "title": "Data Analysis and Applied Econometrics in Practice",
+    "average": "B+",
+    "year": "3rd"
+  },
+  {
+    "course": "ECO374",
+    "campus": "UTSG",
+    "semester": "Fall 2022",
+    "title": "Forecasting and Time Series Econometrics",
+    "average": "A-",
+    "year": "3rd"
+  },
+  {
+    "course": "ECO375",
+    "campus": "UTSG",
+    "semester": "Winter 2022",
+    "title": "Applied Econometrics I",
+    "average": "B+",
+    "year": "3rd"
+  },
+  {
+    "course": "ECO421",
+    "campus": "UTSG",
+    "semester": "Fall 2022",
+    "title": "Special Topics in Economics",
+    "average": "B+",
+    "year": "4th"
+  },
+  {
+    "course": "ECO464",
+    "campus": "UTSG",
+    "semester": "Fall 2022",
+    "title": "Empirical Financial Economics",
+    "average": "A-",
+    "year": "4th"
+  },
+  {
+    "course": "ECO475",
+    "campus": "UTSG",
+    "semester": "Winter 2022",
+    "title": "Applied Econometrics II",
+    "average": "A-",
+    "year": "4th"
+  },
+  {
+    "course": "EEB362",
+    "campus": "UTSG",
+    "semester": "Fall 2022",
+    "title": "Macroevolution",
+    "average": "B-",
+    "year": "3rd"
+  },
+  {
+    "course": "ENG289",
+    "campus": "UTSG",
+    "semester": "Fall 2021",
+    "title": "Introduction to Creative Writing",
+    "average": "B",
+    "year": "2nd"
+  },
+  {
+    "course": "ENT200",
+    "campus": "UTSG",
+    "semester": "Fall 2021",
+    "title": "Innovation and Entrepreneurship",
+    "average": "B-",
+    "year": "2nd"
+  },
+  {
+    "course": "ENT200",
+    "campus": "UTSG",
+    "semester": "Winter 2022",
+    "title": "Innovation and Entrepreneurship",
+    "average": "B+",
+    "year": "2nd"
+  },
+  {
+    "course": "ENV100",
+    "campus": "UTSG",
+    "semester": "Fall 2021",
+    "title": "Introduction to Environmental Studies",
+    "average": "B-",
+    "year": "1st"
+  },
+  {
+    "course": "ENV221",
+    "campus": "UTSG",
+    "semester": "Fall 2021",
+    "title": "Multidisciplinary Perspectives on Environment",
+    "average": "C+",
+    "year": "2nd"
+  },
+  {
+    "course": "ENV440",
+    "campus": "UTSG",
+    "semester": "Fall 2021",
+    "title": "Professional Experience Course",
+    "average": "B",
+    "year": "4th"
+  },
+  {
+    "course": "ESS205",
+    "campus": "UTSG",
+    "semester": "Fall 2022",
+    "title": "Confronting Global Change",
+    "average": "B-",
+    "year": "2nd"
+  },
+  {
+    "course": "ETH201",
+    "campus": "UTSG",
+    "semester": "Fall 2022",
+    "title": "Contemporary Moral Problems",
+    "average": "B",
+    "year": "2nd"
+  },
+  {
+    "course": "FAH101",
+    "campus": "UTSG",
+    "semester": "Fall 2022",
+    "title": "Monuments of Art History",
+    "average": "B+",
+    "year": "1st"
+  },
+  {
+    "course": "FAH199",
+    "campus": "UTSG",
+    "semester": "Fall 2021",
+    "title": "Architecture of Toronto",
+    "average": "A",
+    "year": "1st"
+  },
+  {
+    "course": "FAH231",
+    "campus": "UTSG",
+    "semester": "Fall 2021",
+    "title": "Baroque Art and Architecture",
+    "average": "B-",
+    "year": "2nd"
+  },
+  {
+    "course": "FAH245",
+    "campus": "UTSG",
+    "semester": "Fall 2021",
+    "title": "Modernism and anti-Modernism, c. 1750-1900",
+    "average": "B",
+    "year": "2nd"
+  },
+  {
+    "course": "FAH246",
+    "campus": "UTSG",
+    "semester": "Fall 2021",
+    "title": "Art Since 1900",
+    "average": "B",
+    "year": "2nd"
+  },
+  {
+    "course": "FAH272",
+    "campus": "UTSG",
+    "semester": "Fall 2021",
+    "title": "Modern Architecture from 1750 to the Present",
+    "average": "B",
+    "year": "2nd"
+  },
+  {
+    "course": "FAH354",
+    "campus": "UTSG",
+    "semester": "Fall 2021",
+    "title": "Art in Canada Since the 1960s",
+    "average": "B-",
+    "year": "3rd"
+  },
+  {
+    "course": "FAH381",
+    "campus": "UTSG",
+    "semester": "Winter 2022",
+    "title": "Problems in Jewish Art",
+    "average": "B-",
+    "year": "3rd"
+  },
+  {
+    "course": "FOR201",
+    "campus": "UTSG",
+    "semester": "Winter 2022",
+    "title": "Conservation of Tropical and Subtropical Forests",
+    "average": "C+",
+    "year": "2nd"
+  },
+  {
+    "course": "FOR303",
+    "campus": "UTSG",
+    "semester": "Fall 2022",
+    "title": "Human Dimensions of Global Forests",
+    "average": "B-",
+    "year": "3rd"
+  },
+  {
+    "course": "FSL100",
+    "campus": "UTSG",
+    "semester": "Fall 2022",
+    "title": "Elementary French I",
+    "average": "B-",
+    "year": "1st"
+  },
+  {
+    "course": "GGR107",
+    "campus": "UTSG",
+    "semester": "Fall 2021",
+    "title": "Environment, Food and People",
+    "average": "B",
+    "year": "1st"
+  },
+  {
+    "course": "GGR124",
+    "campus": "UTSG",
+    "semester": "Winter 2022",
+    "title": "Cities and Urban Life",
+    "average": "B-",
+    "year": "1st"
+  },
+  {
+    "course": "GGR124",
+    "campus": "UTSG",
+    "semester": "Fall 2022",
+    "title": "Cities and Urban Life",
+    "average": "B-",
+    "year": "1st"
+  },
+  {
+    "course": "GGR198",
+    "campus": "UTSG",
+    "semester": "Fall 2022",
+    "title": "Mobility and Borders",
+    "average": "C+",
+    "year": "1st"
+  },
+  {
+    "course": "GGR221",
+    "campus": "UTSG",
+    "semester": "Fall 2022",
+    "title": "New Economic Spaces",
+    "average": "C+",
+    "year": "2nd"
+  },
+  {
+    "course": "GGR246",
+    "campus": "UTSG",
+    "semester": "Winter 2022",
+    "title": "Geography of Canada",
+    "average": "B-",
+    "year": "2nd"
+  },
+  {
+    "course": "GGR251",
+    "campus": "UTSG",
+    "semester": "Fall 2021",
+    "title": "Geography of Innovation",
+    "average": "C+",
+    "year": "2nd"
+  },
+  {
+    "course": "GGR252",
+    "campus": "UTSG",
+    "semester": "Winter 2022",
+    "title": "Marketing Geography",
+    "average": "B-",
+    "year": "2nd"
+  },
+  {
+    "course": "GGR272",
+    "campus": "UTSG",
+    "semester": "Fall 2022",
+    "title": "Geographic Information and Mapping I",
+    "average": "B",
+    "year": "2nd"
+  },
+  {
+    "course": "GGR274",
+    "campus": "UTSG",
+    "semester": "Winter 2022",
+    "title": "Introductory Computation and Data Science for the Social Sciences",
+    "average": "B+",
+    "year": "2nd"
+  },
+  {
+    "course": "HIS102",
+    "campus": "UTSG",
+    "semester": "Winter 2022",
+    "title": "Empires, Encounters and Exchanges",
+    "average": "B-",
+    "year": "1st"
+  },
+  {
+    "course": "HIS230",
+    "campus": "UTSG",
+    "semester": "Fall 2021",
+    "title": "Indigenous and Early Colonial Caribbean History",
+    "average": "B+",
+    "year": "2nd"
+  },
+  {
+    "course": "HIS264",
+    "campus": "UTSG",
+    "semester": "Fall 2021",
+    "title": "Critical Issues in Canadian History",
+    "average": "C+",
+    "year": "2nd"
+  },
+  {
+    "course": "HIS319",
+    "campus": "UTSG",
+    "semester": "Fall 2022",
+    "title": "Histories of the Horn of Africa",
+    "average": "B-",
+    "year": "3rd"
+  },
+  {
+    "course": "HIS346",
+    "campus": "UTSG",
+    "semester": "Winter 2022",
+    "title": "Rice, Sugar, and Spice in Southeast Asia: a History of Food in the Region",
+    "average": "B+",
+    "year": "3rd"
+  },
+  {
+    "course": "HIS357",
+    "campus": "UTSG",
+    "semester": "Winter 2022",
+    "title": "A Social History of Renaissance Europe",
+    "average": "B-",
+    "year": "3rd"
+  },
+  {
+    "course": "HIS369",
+    "campus": "UTSG",
+    "semester": "Fall 2021",
+    "title": "Indigenous Histories of the Great Lakes, to 1830",
+    "average": "B+",
+    "year": "3rd"
+  },
+  {
+    "course": "HIS370",
+    "campus": "UTSG",
+    "semester": "Fall 2022",
+    "title": "Modern Palestine",
+    "average": "B+",
+    "year": "3rd"
+  },
+  {
+    "course": "HMB200",
+    "campus": "UTSG",
+    "semester": "Winter 2022",
+    "title": "Introduction to Neuroscience",
+    "average": "B-",
+    "year": "2nd"
+  },
+  {
+    "course": "HMB265",
+    "campus": "UTSG",
+    "semester": "Fall 2021",
+    "title": "General & Human Genetics",
+    "average": "C+",
+    "year": "2nd"
+  },
+  {
+    "course": "HMB265",
+    "campus": "UTSG",
+    "semester": "Fall 2022",
+    "title": "General & Human Genetics",
+    "average": "C+",
+    "year": "2nd"
+  },
+  {
+    "course": "HMB301",
+    "campus": "UTSG",
+    "semester": "Fall 2021",
+    "title": "Biotechnology",
+    "average": "B+",
+    "year": "3rd"
+  },
+  {
+    "course": "HMB302",
+    "campus": "UTSG",
+    "semester": "Fall 2021",
+    "title": "Vertebrate Histology and Histopathology",
+    "average": "B+",
+    "year": "3rd"
+  },
+  {
+    "course": "HMB302",
+    "campus": "UTSG",
+    "semester": "Fall 2022",
+    "title": "Vertebrate Histology and Histopathology",
+    "average": "B+",
+    "year": "3rd"
+  },
+  {
+    "course": "HMB303",
+    "campus": "UTSG",
+    "semester": "Fall 2021",
+    "title": "Global Health and Human Rights",
+    "average": "B+",
+    "year": "3rd"
+  },
+  {
+    "course": "HMB311",
+    "campus": "UTSG",
+    "semester": "Fall 2022",
+    "title": "Laboratory in Fundamental Genetics and its Applications",
+    "average": "A-",
+    "year": "3rd"
+  },
+  {
+    "course": "HMB320",
+    "campus": "UTSG",
+    "semester": "Winter 2022",
+    "title": "Neuroanatomy",
+    "average": "B-",
+    "year": "3rd"
+  },
+  {
+    "course": "HMB360",
+    "campus": "UTSG",
+    "semester": "Fall 2022",
+    "title": "Neurogenomics",
+    "average": "B",
+    "year": "3rd"
+  },
+  {
+    "course": "HMB402",
+    "campus": "UTSG",
+    "semester": "Fall 2022",
+    "title": "Topics in Translational Medicine",
+    "average": "B+",
+    "year": "4th"
+  },
+  {
+    "course": "HMB422",
+    "campus": "UTSG",
+    "semester": "Fall 2022",
+    "title": "Seminar in Health & Disease",
+    "average": "B+",
+    "year": "4th"
+  },
+  {
+    "course": "HMB430",
+    "campus": "UTSG",
+    "semester": "Fall 2021",
+    "title": "Trends in Neuroscience",
+    "average": "B+",
+    "year": "4th"
+  },
+  {
+    "course": "HMB434",
+    "campus": "UTSG",
+    "semester": "Fall 2022",
+    "title": "Complementary & Integrative Medicine",
+    "average": "A-",
+    "year": "4th"
+  },
+  {
+    "course": "HMB450",
+    "campus": "UTSG",
+    "semester": "Fall 2021",
+    "title": "Neurodevelopmental Diversity and Diseases",
+    "average": "B+",
+    "year": "4th"
+  },
+  {
+    "course": "HMB450",
+    "campus": "UTSG",
+    "semester": "Fall 2022",
+    "title": "Neurodevelopmental Diversity and Diseases",
+    "average": "B+",
+    "year": "4th"
+  },
+  {
+    "course": "HPS100",
+    "campus": "UTSG",
+    "semester": "Fall 2021",
+    "title": "Introduction to History and Philosophy of Science and Technology",
+    "average": "B",
+    "year": "1st"
+  },
+  {
+    "course": "HPS100",
+    "campus": "UTSG",
+    "semester": "Winter 2022",
+    "title": "Introduction to History and Philosophy of Science and Technology",
+    "average": "B+",
+    "year": "1st"
+  },
+  {
+    "course": "HPS110",
+    "campus": "UTSG",
+    "semester": "Fall 2021",
+    "title": "The Science of Human Nature",
+    "average": "B+",
+    "year": "1st"
+  },
+  {
+    "course": "HPS120",
+    "campus": "UTSG",
+    "semester": "Fall 2022",
+    "title": "How to Think about Science",
+    "average": "B-",
+    "year": "1st"
+  },
+  {
+    "course": "HPS240",
+    "campus": "UTSG",
+    "semester": "Winter 2022",
+    "title": "The Influence of the Eugenics Movement on Contemporary Society",
+    "average": "B-",
+    "year": "2nd"
+  },
+  {
+    "course": "HPS300",
+    "campus": "UTSG",
+    "semester": "Fall 2021",
+    "title": "Topics in History and Philosophy of Science and Technology",
+    "average": "B-",
+    "year": "3rd"
+  },
+  {
+    "course": "HPS322",
+    "campus": "UTSG",
+    "semester": "Fall 2021",
+    "title": "Complexity, Order, and Emergence",
+    "average": "B-",
+    "year": "3rd"
+  },
+  {
+    "course": "HST209",
+    "campus": "UTSG",
+    "semester": "Fall 2021",
+    "title": "Introduction to Health: Determinants of Health & Health Care",
+    "average": "B",
+    "year": "2nd"
+  },
+  {
+    "course": "HST440",
+    "campus": "UTSG",
+    "semester": "Fall 2021",
+    "title": "Health & Pharmaceuticals",
+    "average": "A-",
+    "year": "4th"
+  },
+  {
+    "course": "IMM250",
+    "campus": "UTSG",
+    "semester": "Fall 2021",
+    "title": "The Immune System and Infectious Disease",
+    "average": "B+",
+    "year": "2nd"
+  },
+  {
+    "course": "IMM250",
+    "campus": "UTSG",
+    "semester": "Winter 2022",
+    "title": "The Immune System and Infectious Disease",
+    "average": "B",
+    "year": "2nd"
+  },
+  {
+    "course": "IMM250",
+    "campus": "UTSG",
+    "semester": "Fall 2022",
+    "title": "The Immune System and Infectious Disease",
+    "average": "B+",
+    "year": "2nd"
+  },
+  {
+    "course": "IMM340",
+    "campus": "UTSG",
+    "semester": "Fall 2021",
+    "title": "Fundamental Immunology",
+    "average": "B+",
+    "year": "3rd"
+  },
+  {
+    "course": "IMM340",
+    "campus": "UTSG",
+    "semester": "Fall 2022",
+    "title": "Fundamental Immunology",
+    "average": "B+",
+    "year": "3rd"
+  },
+  {
+    "course": "IMM429",
+    "campus": "UTSG",
+    "semester": "Fall 2021",
+    "title": "Developmental Immunology",
+    "average": "A-",
+    "year": "4th"
+  },
+  {
+    "course": "IMM435",
+    "campus": "UTSG",
+    "semester": "Fall 2021",
+    "title": "Practical Immunology",
+    "average": "A-",
+    "year": "4th"
+  },
+  {
+    "course": "JEG100",
+    "campus": "UTSG",
+    "semester": "Winter 2022",
+    "title": "Introduction to Physical Geography and Earth Science",
+    "average": "B+",
+    "year": "1st"
+  },
+  {
+    "course": "JFP450",
+    "campus": "UTSG",
+    "semester": "Fall 2021",
+    "title": "Indigenous Issues in Health and Healing",
+    "average": "B+",
+    "year": "4th"
+  },
+  {
+    "course": "JLP374",
+    "campus": "UTSG",
+    "semester": "Fall 2021",
+    "title": "Psychology of Language",
+    "average": "B",
+    "year": "3rd"
+  },
+  {
+    "course": "JNH350",
+    "campus": "UTSG",
+    "semester": "Fall 2021",
+    "title": "AIDS : Challenges and Successes",
+    "average": "B",
+    "year": "3rd"
+  },
+  {
+    "course": "JSH300",
+    "campus": "UTSG",
+    "semester": "Winter 2022",
+    "title": "Literature and History in Russia",
+    "average": "C+",
+    "year": "3rd"
+  },
+  {
+    "course": "LIN101",
+    "campus": "UTSG",
+    "semester": "Fall 2021",
+    "title": "Introduction to Linguistics: Sound Structure",
+    "average": "C+",
+    "year": "1st"
+  },
+  {
+    "course": "LIN102",
+    "campus": "UTSG",
+    "semester": "Winter 2022",
+    "title": "Introduction to Linguistics: Sentence Structure and Meaning",
+    "average": "C+",
+    "year": "1st"
+  },
+  {
+    "course": "LIN192",
+    "campus": "UTSG",
+    "semester": "Winter 2022",
+    "title": "Sustaining Indigenous Languages",
+    "average": "C+",
+    "year": "1st"
+  },
+  {
+    "course": "LMP200",
+    "campus": "UTSG",
+    "semester": "Winter 2022",
+    "title": "Pathobiology of the Cell",
+    "average": "B+",
+    "year": "2nd"
+  },
+  {
+    "course": "MAT133",
+    "campus": "UTSG",
+    "semester": "Winter 2022",
+    "title": "Calculus and Linear Algebra for Commerce",
+    "average": "C+",
+    "year": "1st"
+  },
+  {
+    "course": "MAT135",
+    "campus": "UTSG",
+    "semester": "Fall 2021",
+    "title": "Calculus I",
+    "average": "B-",
+    "year": "1st"
+  },
+  {
+    "course": "MAT135",
+    "campus": "UTSG",
+    "semester": "Fall 2022",
+    "title": "Calculus I",
+    "average": "B-",
+    "year": "1st"
+  },
+  {
+    "course": "MAT136",
+    "campus": "UTSG",
+    "semester": "Winter 2022",
+    "title": "Calculus II",
+    "average": "B-",
+    "year": "1st"
+  },
+  {
+    "course": "MAT137Y",
+    "campus": "UTSG",
+    "semester": "Winter 2022",
+    "title": "Calculus with Proofs",
+    "average": "C+",
+    "year": "1st"
+  },
+  {
+    "course": "MAT138",
+    "campus": "UTSG",
+    "semester": "Fall 2021",
+    "title": "Introduction to Proofs",
+    "average": "B",
+    "year": "1st"
+  },
+  {
+    "course": "MAT157Y",
+    "campus": "UTSG",
+    "semester": "Winter 2022",
+    "title": "Analysis I",
+    "average": "C+",
+    "year": "1st"
+  },
+  {
+    "course": "MAT186",
+    "campus": "UTSG",
+    "semester": "Fall 2021",
+    "title": "Calculus I",
+    "average": "B",
+    "year": "1st"
+  },
+  {
+    "course": "MAT186",
+    "campus": "UTSG",
+    "semester": "Fall 2022",
+    "title": "Calculus I",
+    "average": "C+",
+    "year": "1st"
+  },
+  {
+    "course": "MAT188",
+    "campus": "UTSG",
+    "semester": "Fall 2021",
+    "title": "Linear Algebra",
+    "average": "B-",
+    "year": "1st"
+  },
+  {
+    "course": "MAT188",
+    "campus": "UTSG",
+    "semester": "Fall 2022",
+    "title": "Linear Algebra",
+    "average": "C+",
+    "year": "1st"
+  },
+  {
+    "course": "MAT198",
+    "campus": "UTSG",
+    "semester": "Winter 2022",
+    "title": "Cryptology: The Mathematics of Secrecy and Security",
+    "average": "A-",
+    "year": "1st"
+  },
+  {
+    "course": "MAT223",
+    "campus": "UTSG",
+    "semester": "Fall 2021",
+    "title": "Linear Algebra I",
+    "average": "B",
+    "year": "2nd"
+  },
+  {
+    "course": "MAT223",
+    "campus": "UTSG",
+    "semester": "Winter 2022",
+    "title": "Linear Algebra I",
+    "average": "B-",
+    "year": "2nd"
+  },
+  {
+    "course": "MAT223",
+    "campus": "UTSG",
+    "semester": "Fall 2022",
+    "title": "Linear Algebra I",
+    "average": "B",
+    "year": "2nd"
+  },
+  {
+    "course": "MAT224",
+    "campus": "UTSG",
+    "semester": "Fall 2021",
+    "title": "Linear Algebra II",
+    "average": "B+",
+    "year": "2nd"
+  },
+  {
+    "course": "MAT224",
+    "campus": "UTSG",
+    "semester": "Winter 2022",
+    "title": "Linear Algebra II",
+    "average": "C",
+    "year": "2nd"
+  },
+  {
+    "course": "MAT224",
+    "campus": "UTSG",
+    "semester": "Fall 2022",
+    "title": "Linear Algebra II",
+    "average": "C-",
+    "year": "2nd"
+  },
+  {
+    "course": "MAT231",
+    "campus": "UTSG",
+    "semester": "Fall 2021",
+    "title": "",
+    "average": "A-",
+    "year": "2nd"
+  },
+  {
+    "course": "MAT235",
+    "campus": "UTSG",
+    "semester": "Winter 2022",
+    "title": "Multivariable Calculus",
+    "average": "C+",
+    "year": "2nd"
+  },
+  {
+    "course": "MAT237Y",
+    "campus": "UTSG",
+    "semester": "Winter 2022",
+    "title": "Multivariable Calculus with Proofs",
+    "average": "C+",
+    "year": "2nd"
+  },
+  {
+    "course": "MAT240",
+    "campus": "UTSG",
+    "semester": "Fall 2021",
+    "title": "Algebra I",
+    "average": "B-",
+    "year": "2nd"
+  },
+  {
+    "course": "MAT240",
+    "campus": "UTSG",
+    "semester": "Fall 2022",
+    "title": "Algebra I",
+    "average": "C+",
+    "year": "2nd"
+  },
+  {
+    "course": "MAT244",
+    "campus": "UTSG",
+    "semester": "Fall 2021",
+    "title": "Introduction to Ordinary Differential Equations",
+    "average": "B",
+    "year": "2nd"
+  },
+  {
+    "course": "MAT244",
+    "campus": "UTSG",
+    "semester": "Winter 2022",
+    "title": "Introduction to Ordinary Differential Equations",
+    "average": "C+",
+    "year": "2nd"
+  },
+  {
+    "course": "MAT244",
+    "campus": "UTSG",
+    "semester": "Fall 2022",
+    "title": "Introduction to Ordinary Differential Equations",
+    "average": "B-",
+    "year": "2nd"
+  },
+  {
+    "course": "MAT246",
+    "campus": "UTSG",
+    "semester": "Fall 2021",
+    "title": "Concepts in Abstract Mathematics",
+    "average": "B",
+    "year": "2nd"
+  },
+  {
+    "course": "MAT246",
+    "campus": "UTSG",
+    "semester": "Winter 2022",
+    "title": "Concepts in Abstract Mathematics",
+    "average": "C+",
+    "year": "2nd"
+  },
+  {
+    "course": "MAT246",
+    "campus": "UTSG",
+    "semester": "Fall 2022",
+    "title": "Concepts in Abstract Mathematics",
+    "average": "C+",
+    "year": "2nd"
+  },
+  {
+    "course": "MAT247",
+    "campus": "UTSG",
+    "semester": "Winter 2022",
+    "title": "Algebra II",
+    "average": "B+",
+    "year": "2nd"
+  },
+  {
+    "course": "MAT257Y",
+    "campus": "UTSG",
+    "semester": "Winter 2022",
+    "title": "Analysis II",
+    "average": "B",
+    "year": "2nd"
+  },
+  {
+    "course": "MAT267",
+    "campus": "UTSG",
+    "semester": "Winter 2022",
+    "title": "Advanced Ordinary Differential Equations",
+    "average": "B-",
+    "year": "2nd"
+  },
+  {
+    "course": "MAT301",
+    "campus": "UTSG",
+    "semester": "Fall 2021",
+    "title": "Groups and Symmetries",
+    "average": "B-",
+    "year": "3rd"
+  },
+  {
+    "course": "MAT301",
+    "campus": "UTSG",
+    "semester": "Winter 2022",
+    "title": "Groups and Symmetries",
+    "average": "B",
+    "year": "3rd"
+  },
+  {
+    "course": "MAT301",
+    "campus": "UTSG",
+    "semester": "Fall 2022",
+    "title": "Groups and Symmetries",
+    "average": "B-",
+    "year": "3rd"
+  },
+  {
+    "course": "MAT315",
+    "campus": "UTSG",
+    "semester": "Winter 2022",
+    "title": "Introduction to Number Theory",
+    "average": "B-",
+    "year": "3rd"
+  },
+  {
+    "course": "MAT332",
+    "campus": "UTSG",
+    "semester": "Fall 2022",
+    "title": "Introduction to Graph Theory",
+    "average": "B-",
+    "year": "3rd"
+  },
+  {
+    "course": "MAT334",
+    "campus": "UTSG",
+    "semester": "Fall 2021",
+    "title": "Complex Variables",
+    "average": "B-",
+    "year": "3rd"
+  },
+  {
+    "course": "MAT334",
+    "campus": "UTSG",
+    "semester": "Winter 2022",
+    "title": "Complex Variables",
+    "average": "B",
+    "year": "3rd"
+  },
+  {
+    "course": "MAT337",
+    "campus": "UTSG",
+    "semester": "Fall 2021",
+    "title": "Introduction to Real Analysis",
+    "average": "C-",
+    "year": "3rd"
+  },
+  {
+    "course": "MAT337",
+    "campus": "UTSG",
+    "semester": "Fall 2022",
+    "title": "Introduction to Real Analysis",
+    "average": "C-",
+    "year": "3rd"
+  },
+  {
+    "course": "MAT344",
+    "campus": "UTSG",
+    "semester": "Winter 2022",
+    "title": "Introduction to Combinatorics",
+    "average": "C+",
+    "year": "3rd"
+  },
+  {
+    "course": "MAT344",
+    "campus": "UTSG",
+    "semester": "Fall 2022",
+    "title": "Introduction to Combinatorics",
+    "average": "C+",
+    "year": "3rd"
+  },
+  {
+    "course": "MAT351",
+    "campus": "UTSG",
+    "semester": "Winter 2022",
+    "title": "Partial Differential Equations",
+    "average": "B+",
+    "year": "3rd"
+  },
+  {
+    "course": "MAT354",
+    "campus": "UTSG",
+    "semester": "Fall 2021",
+    "title": "Complex Analysis I",
+    "average": "B",
+    "year": "3rd"
+  },
+  {
+    "course": "MAT354",
+    "campus": "UTSG",
+    "semester": "Fall 2022",
+    "title": "Complex Analysis I",
+    "average": "B-",
+    "year": "3rd"
+  },
+  {
+    "course": "MAT367",
+    "campus": "UTSG",
+    "semester": "Winter 2022",
+    "title": "Differential Geometry",
+    "average": "B+",
+    "year": "3rd"
+  },
+  {
+    "course": "MAT409",
+    "campus": "UTSG",
+    "semester": "Fall 2022",
+    "title": "Set Theory",
+    "average": "B+",
+    "year": "4th"
+  },
+  {
+    "course": "MAT448",
+    "campus": "UTSG",
+    "semester": "Winter 2022",
+    "title": "Introduction to Commutative Algebra and Algebraic Geometry",
+    "average": "B+",
+    "year": "4th"
+  },
+  {
+    "course": "MAT457",
+    "campus": "UTSG",
+    "semester": "Fall 2021",
+    "title": "Advanced Real Analysis I",
+    "average": "B+",
+    "year": "4th"
+  },
+  {
+    "course": "MAT458",
+    "campus": "UTSG",
+    "semester": "Winter 2022",
+    "title": "Advanced Real Analysis II",
+    "average": "A-",
+    "year": "4th"
+  },
+  {
+    "course": "MAT477",
+    "campus": "UTSG",
+    "semester": "Winter 2022",
+    "title": "Seminar in Mathematics",
+    "average": "A",
+    "year": "4th"
+  },
+  {
+    "course": "MCS223",
+    "campus": "UTSG",
+    "semester": "Fall 2021",
+    "title": "Signs, Meanings, and Culture",
+    "average": "B",
+    "year": "2nd"
+  },
+  {
+    "course": "MCS224",
+    "campus": "UTSG",
+    "semester": "Winter 2022",
+    "title": "Approaches to Material Culture",
+    "average": "B",
+    "year": "2nd"
+  },
+  {
+    "course": "MCS225",
+    "campus": "UTSG",
+    "semester": "Winter 2022",
+    "title": "A History of the World in Objects and Signs",
+    "average": "A-",
+    "year": "2nd"
+  },
+  {
+    "course": "MCS326",
+    "campus": "UTSG",
+    "semester": "Fall 2022",
+    "title": "The Material Culture of Food",
+    "average": "B-",
+    "year": "3rd"
+  },
+  {
+    "course": "MGT100",
+    "campus": "UTSG",
+    "semester": "Winter 2022",
+    "title": "Fundamentals of Management",
+    "average": "C",
+    "year": "1st"
+  },
+  {
+    "course": "MGT100",
+    "campus": "UTSG",
+    "semester": "Fall 2022",
+    "title": "Fundamentals of Management",
+    "average": "C+",
+    "year": "1st"
+  },
+  {
+    "course": "MGY277",
+    "campus": "UTSG",
+    "semester": "Fall 2021",
+    "title": "Introduction to Medical Microbiology",
+    "average": "A-",
+    "year": "2nd"
+  },
+  {
+    "course": "MGY277",
+    "campus": "UTSG",
+    "semester": "Fall 2022",
+    "title": "Introduction to Medical Microbiology",
+    "average": "B+",
+    "year": "2nd"
+  },
+  {
+    "course": "MGY340",
+    "campus": "UTSG",
+    "semester": "Fall 2021",
+    "title": "Molecular Genetics",
+    "average": "B+",
+    "year": "3rd"
+  },
+  {
+    "course": "MGY377",
+    "campus": "UTSG",
+    "semester": "Fall 2022",
+    "title": "Microbiology I: Bacteria",
+    "average": "C+",
+    "year": "3rd"
+  },
+  {
+    "course": "MIE236",
+    "campus": "UTSG",
+    "semester": "Fall 2021",
+    "title": "",
+    "average": "B+",
+    "year": "2nd"
+  },
+  {
+    "course": "MIE242",
+    "campus": "UTSG",
+    "semester": "Fall 2021",
+    "title": "",
+    "average": "B",
+    "year": "2nd"
+  },
+  {
+    "course": "MIE250",
+    "campus": "UTSG",
+    "semester": "Fall 2021",
+    "title": "",
+    "average": "C+",
+    "year": "2nd"
+  },
+  {
+    "course": "MIE256",
+    "campus": "UTSG",
+    "semester": "Fall 2021",
+    "title": "",
+    "average": "C+",
+    "year": "2nd"
+  },
+  {
+    "course": "MST210",
+    "campus": "UTSG",
+    "semester": "Fall 2021",
+    "title": "The Early Mediaeval Tradition",
+    "average": "B",
+    "year": "2nd"
+  },
+  {
+    "course": "MUS303",
+    "campus": "UTSG",
+    "semester": "Fall 2022",
+    "title": "Music in the Contemporary World",
+    "average": "C+",
+    "year": "3rd"
+  },
+  {
+    "course": "NEW103",
+    "campus": "UTSG",
+    "semester": "Fall 2021",
+    "title": "Digital Technology and Society",
+    "average": "B+",
+    "year": "1st"
+  },
+  {
+    "course": "NEW116",
+    "campus": "UTSG",
+    "semester": "Winter 2022",
+    "title": "Science and Global Threats",
+    "average": "B+",
+    "year": "1st"
+  },
+  {
+    "course": "NFS284",
+    "campus": "UTSG",
+    "semester": "Fall 2021",
+    "title": "Basic Human Nutrition",
+    "average": "B+",
+    "year": "2nd"
+  },
+  {
+    "course": "NFS284",
+    "campus": "UTSG",
+    "semester": "Fall 2022",
+    "title": "Basic Human Nutrition",
+    "average": "B-",
+    "year": "2nd"
+  },
+  {
+    "course": "NFS386",
+    "campus": "UTSG",
+    "semester": "Fall 2022",
+    "title": "Food Chemistry",
+    "average": "B",
+    "year": "3rd"
+  },
+  {
+    "course": "NFS387",
+    "campus": "UTSG",
+    "semester": "Fall 2021",
+    "title": "",
+    "average": "B+",
+    "year": "3rd"
+  },
+  {
+    "course": "PCL102",
+    "campus": "UTSG",
+    "semester": "Winter 2022",
+    "title": "The Art of Drug Discovery",
+    "average": "B+",
+    "year": "1st"
+  },
+  {
+    "course": "PCL302",
+    "campus": "UTSG",
+    "semester": "Fall 2021",
+    "title": "Pharmacodynamic Principles",
+    "average": "B",
+    "year": "3rd"
+  },
+  {
+    "course": "PCL362",
+    "campus": "UTSG",
+    "semester": "Fall 2021",
+    "title": "Introductory Toxicology",
+    "average": "C",
+    "year": "3rd"
+  },
+  {
+    "course": "PCL470",
+    "campus": "UTSG",
+    "semester": "Fall 2021",
+    "title": "Systems Pharmacology II",
+    "average": "B",
+    "year": "4th"
+  },
+  {
+    "course": "PCL470",
+    "campus": "UTSG",
+    "semester": "Fall 2022",
+    "title": "Systems Pharmacology II",
+    "average": "B",
+    "year": "4th"
+  },
+  {
+    "course": "PHL101",
+    "campus": "UTSG",
+    "semester": "Winter 2022",
+    "title": "Introduction to Philosophy (Thematic)",
+    "average": "B-",
+    "year": "1st"
+  },
+  {
+    "course": "PHL210",
+    "campus": "UTSG",
+    "semester": "Winter 2022",
+    "title": "17th-and 18th-Century Philosophy",
+    "average": "C+",
+    "year": "2nd"
+  },
+  {
+    "course": "PHL232",
+    "campus": "UTSG",
+    "semester": "Fall 2022",
+    "title": "Knowledge and Reality",
+    "average": "B-",
+    "year": "2nd"
+  },
+  {
+    "course": "PHL233",
+    "campus": "UTSG",
+    "semester": "Fall 2021",
+    "title": "Philosophy for Scientists",
+    "average": "C+",
+    "year": "2nd"
+  },
+  {
+    "course": "PHL244",
+    "campus": "UTSG",
+    "semester": "Fall 2022",
+    "title": "Human Nature",
+    "average": "B-",
+    "year": "2nd"
+  },
+  {
+    "course": "PHL245",
+    "campus": "UTSG",
+    "semester": "Fall 2021",
+    "title": "Modern Symbolic Logic",
+    "average": "B-",
+    "year": "2nd"
+  },
+  {
+    "course": "PHL245",
+    "campus": "UTSG",
+    "semester": "Winter 2022",
+    "title": "Modern Symbolic Logic",
+    "average": "C+",
+    "year": "2nd"
+  },
+  {
+    "course": "PHL245",
+    "campus": "UTSG",
+    "semester": "Fall 2022",
+    "title": "Modern Symbolic Logic",
+    "average": "B-",
+    "year": "2nd"
+  },
+  {
+    "course": "PHL265",
+    "campus": "UTSG",
+    "semester": "Fall 2022",
+    "title": "Introduction to Political Philosophy",
+    "average": "B-",
+    "year": "2nd"
+  },
+  {
+    "course": "PHL275",
+    "campus": "UTSG",
+    "semester": "Fall 2022",
+    "title": "Introduction to Ethics",
+    "average": "B-",
+    "year": "2nd"
+  },
+  {
+    "course": "PHL342",
+    "campus": "UTSG",
+    "semester": "Fall 2021",
+    "title": "Minds and Machines",
+    "average": "B",
+    "year": "3rd"
+  },
+  {
+    "course": "PHL342",
+    "campus": "UTSG",
+    "semester": "Fall 2022",
+    "title": "Minds and Machines",
+    "average": "B-",
+    "year": "3rd"
+  },
+  {
+    "course": "PHL345",
+    "campus": "UTSG",
+    "semester": "Fall 2022",
+    "title": "Intermediate Logic",
+    "average": "B",
+    "year": "3rd"
+  },
+  {
+    "course": "PHL356",
+    "campus": "UTSG",
+    "semester": "Winter 2022",
+    "title": "Philosophy of Physics",
+    "average": "B",
+    "year": "3rd"
+  },
+  {
+    "course": "PHY131",
+    "campus": "UTSG",
+    "semester": "Fall 2021",
+    "title": "Introduction to Physics I",
+    "average": "B-",
+    "year": "1st"
+  },
+  {
+    "course": "PHY131",
+    "campus": "UTSG",
+    "semester": "Winter 2022",
+    "title": "Introduction to Physics I",
+    "average": "B",
+    "year": "1st"
+  },
+  {
+    "course": "PHY131",
+    "campus": "UTSG",
+    "semester": "Fall 2022",
+    "title": "Introduction to Physics I",
+    "average": "B",
+    "year": "1st"
+  },
+  {
+    "course": "PHY132",
+    "campus": "UTSG",
+    "semester": "Winter 2022",
+    "title": "Introduction to Physics II",
+    "average": "B",
+    "year": "1st"
+  },
+  {
+    "course": "PHY151",
+    "campus": "UTSG",
+    "semester": "Fall 2021",
+    "title": "Foundations of Physics I",
+    "average": "B-",
+    "year": "1st"
+  },
+  {
+    "course": "PHY151",
+    "campus": "UTSG",
+    "semester": "Fall 2022",
+    "title": "Foundations of Physics I",
+    "average": "B-",
+    "year": "1st"
+  },
+  {
+    "course": "PHY152",
+    "campus": "UTSG",
+    "semester": "Winter 2022",
+    "title": "Foundations of Physics II",
+    "average": "C+",
+    "year": "1st"
+  },
+  {
+    "course": "PHY224",
+    "campus": "UTSG",
+    "semester": "Fall 2021",
+    "title": "Practical Physics I",
+    "average": "B+",
+    "year": "2nd"
+  },
+  {
+    "course": "PHY365",
+    "campus": "UTSG",
+    "semester": "Winter 2022",
+    "title": "Quantum Information",
+    "average": "B",
+    "year": "3rd"
+  },
+  {
+    "course": "POL101",
+    "campus": "UTSG",
+    "semester": "Fall 2021",
+    "title": "The Real World of Politics: An Introduction",
+    "average": "B",
+    "year": "1st"
+  },
+  {
+    "course": "POL101",
+    "campus": "UTSG",
+    "semester": "Fall 2022",
+    "title": "The Real World of Politics: An Introduction",
+    "average": "B-",
+    "year": "1st"
+  },
+  {
+    "course": "POL106",
+    "campus": "UTSG",
+    "semester": "Winter 2022",
+    "title": "Contemporary Challenges to Democracy: Democracy in the Social Media Age",
+    "average": "C+",
+    "year": "1st"
+  },
+  {
+    "course": "POL106",
+    "campus": "UTSG",
+    "semester": "Fall 2022",
+    "title": "Contemporary Challenges to Democracy: Democracy in the Social Media Age",
+    "average": "B-",
+    "year": "1st"
+  },
+  {
+    "course": "POL107",
+    "campus": "UTSG",
+    "semester": "Fall 2021",
+    "title": "What Went Wrong? A Post Mortem of Political Disasters, Catastrophic Policy Failures, and Epic Marches of Folly",
+    "average": "B",
+    "year": "1st"
+  },
+  {
+    "course": "POL214",
+    "campus": "UTSG",
+    "semester": "Fall 2022",
+    "title": "Canadian Government",
+    "average": "C+",
+    "year": "2nd"
+  },
+  {
+    "course": "POL218",
+    "campus": "UTSG",
+    "semester": "Winter 2022",
+    "title": "State, Society and Power in Comparative Perspective",
+    "average": "B-",
+    "year": "2nd"
+  },
+  {
+    "course": "POL218",
+    "campus": "UTSG",
+    "semester": "Fall 2022",
+    "title": "State, Society and Power in Comparative Perspective",
+    "average": "B",
+    "year": "2nd"
+  },
+  {
+    "course": "POL222",
+    "campus": "UTSG",
+    "semester": "Fall 2022",
+    "title": "Introduction to Quantitative Reasoning I",
+    "average": "B",
+    "year": "2nd"
+  },
+  {
+    "course": "POL224",
+    "campus": "UTSG",
+    "semester": "Winter 2022",
+    "title": "Canada in Comparative Perspective",
+    "average": "C+",
+    "year": "2nd"
+  },
+  {
+    "course": "POL328",
+    "campus": "UTSG",
+    "semester": "Fall 2022",
+    "title": "Politics and Government in South Asia",
+    "average": "B",
+    "year": "3rd"
+  },
+  {
+    "course": "POL337",
+    "campus": "UTSG",
+    "semester": "Winter 2022",
+    "title": "The Canadian Constitution",
+    "average": "B-",
+    "year": "3rd"
+  },
+  {
+    "course": "POL340",
+    "campus": "UTSG",
+    "semester": "Fall 2022",
+    "title": "International Law: Foundations",
+    "average": "B-",
+    "year": "3rd"
+  },
+  {
+    "course": "POL354",
+    "campus": "UTSG",
+    "semester": "Fall 2022",
+    "title": "Politics and Society in Russia",
+    "average": "B-",
+    "year": "3rd"
+  },
+  {
+    "course": "POL356",
+    "campus": "UTSG",
+    "semester": "Fall 2022",
+    "title": "Canadian Political Parties and Elections",
+    "average": "B-",
+    "year": "3rd"
+  },
+  {
+    "course": "POL378",
+    "campus": "UTSG",
+    "semester": "Winter 2022",
+    "title": "Topics in Comparative Politics II",
+    "average": "B",
+    "year": "3rd"
+  },
+  {
+    "course": "POL379",
+    "campus": "UTSG",
+    "semester": "Winter 2022",
+    "title": "Topics in Comparative Politics III",
+    "average": "B",
+    "year": "3rd"
+  },
+  {
+    "course": "PSL300",
+    "campus": "UTSG",
+    "semester": "Fall 2021",
+    "title": "Human Physiology I",
+    "average": "B",
+    "year": "3rd"
+  },
+  {
+    "course": "PSL300",
+    "campus": "UTSG",
+    "semester": "Fall 2022",
+    "title": "Human Physiology I",
+    "average": "C+",
+    "year": "3rd"
+  },
+  {
+    "course": "PSL301",
+    "campus": "UTSG",
+    "semester": "Winter 2022",
+    "title": "Human Physiology II",
+    "average": "B",
+    "year": "3rd"
+  },
+  {
+    "course": "PSL350",
+    "campus": "UTSG",
+    "semester": "Winter 2022",
+    "title": "Mammalian Molecular Biology",
+    "average": "B",
+    "year": "3rd"
+  },
+  {
+    "course": "PSL372",
+    "campus": "UTSG",
+    "semester": "Fall 2021",
+    "title": "Mammalian Physiology Laboratory",
+    "average": "B",
+    "year": "3rd"
+  },
+  {
+    "course": "PSY100",
+    "campus": "UTSG",
+    "semester": "Fall 2021",
+    "title": "Introductory Psychology",
+    "average": "B-",
+    "year": "1st"
+  },
+  {
+    "course": "PSY100",
+    "campus": "UTSG",
+    "semester": "Winter 2022",
+    "title": "Introductory Psychology",
+    "average": "B-",
+    "year": "1st"
+  },
+  {
+    "course": "PSY100",
+    "campus": "UTSG",
+    "semester": "Fall 2022",
+    "title": "Introductory Psychology",
+    "average": "C+",
+    "year": "1st"
+  },
+  {
+    "course": "PSY201",
+    "campus": "UTSG",
+    "semester": "Fall 2021",
+    "title": "Statistics I",
+    "average": "B-",
+    "year": "2nd"
+  },
+  {
+    "course": "PSY201",
+    "campus": "UTSG",
+    "semester": "Winter 2022",
+    "title": "Statistics I",
+    "average": "B-",
+    "year": "2nd"
+  },
+  {
+    "course": "PSY210",
+    "campus": "UTSG",
+    "semester": "Fall 2021",
+    "title": "Introduction to Developmental Psychology",
+    "average": "B+",
+    "year": "2nd"
+  },
+  {
+    "course": "PSY210",
+    "campus": "UTSG",
+    "semester": "Winter 2022",
+    "title": "Introduction to Developmental Psychology",
+    "average": "B",
+    "year": "2nd"
+  },
+  {
+    "course": "PSY230",
+    "campus": "UTSG",
+    "semester": "Fall 2022",
+    "title": "Personality and Its Transformations",
+    "average": "B-",
+    "year": "2nd"
+  },
+  {
+    "course": "PSY240",
+    "campus": "UTSG",
+    "semester": "Fall 2021",
+    "title": "Introduction to Abnormal Psychology",
+    "average": "B-",
+    "year": "2nd"
+  },
+  {
+    "course": "PSY260",
+    "campus": "UTSG",
+    "semester": "Fall 2022",
+    "title": "Introduction to Learning and Plasticity",
+    "average": "B-",
+    "year": "2nd"
+  },
+  {
+    "course": "PSY270",
+    "campus": "UTSG",
+    "semester": "Winter 2022",
+    "title": "Introduction to Cognitive Psychology",
+    "average": "B-",
+    "year": "2nd"
+  },
+  {
+    "course": "PSY270",
+    "campus": "UTSG",
+    "semester": "Fall 2022",
+    "title": "Introduction to Cognitive Psychology",
+    "average": "C+",
+    "year": "2nd"
+  },
+  {
+    "course": "PSY280",
+    "campus": "UTSG",
+    "semester": "Fall 2021",
+    "title": "Introduction to Sensation and Perception",
+    "average": "B+",
+    "year": "2nd"
+  },
+  {
+    "course": "PSY311",
+    "campus": "UTSG",
+    "semester": "Fall 2021",
+    "title": "Social Development",
+    "average": "B-",
+    "year": "3rd"
+  },
+  {
+    "course": "PSY322",
+    "campus": "UTSG",
+    "semester": "Fall 2021",
+    "title": "Intergroup Relations",
+    "average": "B",
+    "year": "3rd"
+  },
+  {
+    "course": "PSY328",
+    "campus": "UTSG",
+    "semester": "Fall 2022",
+    "title": "Psychology and the Law",
+    "average": "C-",
+    "year": "3rd"
+  },
+  {
+    "course": "PSY362",
+    "campus": "UTSG",
+    "semester": "Fall 2022",
+    "title": "Animal Cognition",
+    "average": "B-",
+    "year": "3rd"
+  },
+  {
+    "course": "PSY370",
+    "campus": "UTSG",
+    "semester": "Fall 2021",
+    "title": "Thinking and Reasoning",
+    "average": "B",
+    "year": "3rd"
+  },
+  {
+    "course": "PSY379",
+    "campus": "UTSG",
+    "semester": "Fall 2022",
+    "title": "Human Memory and Learning Laboratory",
+    "average": "A-",
+    "year": "3rd"
+  },
+  {
+    "course": "PSY390",
+    "campus": "UTSG",
+    "semester": "Fall 2022",
+    "title": "Behavioural Genetics",
+    "average": "B",
+    "year": "3rd"
+  },
+  {
+    "course": "RLG303",
+    "campus": "UTSG",
+    "semester": "Fall 2021",
+    "title": "Evil and Suffering",
+    "average": "B",
+    "year": "3rd"
+  },
+  {
+    "course": "RLG307",
+    "campus": "UTSG",
+    "semester": "Fall 2022",
+    "title": "Museums and Material Religion",
+    "average": "B",
+    "year": "3rd"
+  },
+  {
+    "course": "RLG318",
+    "campus": "UTSG",
+    "semester": "Fall 2021",
+    "title": "Religion and Nature",
+    "average": "B+",
+    "year": "3rd"
+  },
+  {
+    "course": "RSM100",
+    "campus": "UTSG",
+    "semester": "Fall 2021",
+    "title": "Introduction to Management",
+    "average": "B-",
+    "year": "1st"
+  },
+  {
+    "course": "RSM100",
+    "campus": "UTSG",
+    "semester": "Fall 2022",
+    "title": "Introduction to Management",
+    "average": "B-",
+    "year": "1st"
+  },
+  {
+    "course": "RSM219",
+    "campus": "UTSG",
+    "semester": "Fall 2021",
+    "title": "Introduction to Financial Accounting",
+    "average": "A-",
+    "year": "2nd"
+  },
+  {
+    "course": "RSM219",
+    "campus": "UTSG",
+    "semester": "Fall 2022",
+    "title": "Introduction to Financial Accounting",
+    "average": "B+",
+    "year": "2nd"
+  },
+  {
+    "course": "RSM220",
+    "campus": "UTSG",
+    "semester": "Fall 2021",
+    "title": "Intermediate Financial Accounting I",
+    "average": "B",
+    "year": "2nd"
+  },
+  {
+    "course": "RSM222",
+    "campus": "UTSG",
+    "semester": "Fall 2021",
+    "title": "Management Accounting I",
+    "average": "B",
+    "year": "2nd"
+  },
+  {
+    "course": "RSM230",
+    "campus": "UTSG",
+    "semester": "Winter 2022",
+    "title": "Financial Markets",
+    "average": "B",
+    "year": "2nd"
+  },
+  {
+    "course": "RSM250",
+    "campus": "UTSG",
+    "semester": "Fall 2021",
+    "title": "Principles of Marketing",
+    "average": "B+",
+    "year": "2nd"
+  },
+  {
+    "course": "RSM250",
+    "campus": "UTSG",
+    "semester": "Winter 2022",
+    "title": "Principles of Marketing",
+    "average": "B+",
+    "year": "2nd"
+  },
+  {
+    "course": "RSM250",
+    "campus": "UTSG",
+    "semester": "Fall 2022",
+    "title": "Principles of Marketing",
+    "average": "B+",
+    "year": "2nd"
+  },
+  {
+    "course": "RSM260",
+    "campus": "UTSG",
+    "semester": "Winter 2022",
+    "title": "Organizational Behaviour",
+    "average": "B+",
+    "year": "2nd"
+  },
+  {
+    "course": "RSM320",
+    "campus": "UTSG",
+    "semester": "Fall 2022",
+    "title": "Intermediate Financial Accounting III",
+    "average": "B+",
+    "year": "3rd"
+  },
+  {
+    "course": "RSM323",
+    "campus": "UTSG",
+    "semester": "Winter 2022",
+    "title": "Auditing I",
+    "average": "B+",
+    "year": "3rd"
+  },
+  {
+    "course": "RSM326",
+    "campus": "UTSG",
+    "semester": "Winter 2022",
+    "title": "Data Analytics with Financial Accounting Information",
+    "average": "B+",
+    "year": "3rd"
+  },
+  {
+    "course": "RSM392",
+    "campus": "UTSG",
+    "semester": "Fall 2022",
+    "title": "Strategic Management",
+    "average": "B+",
+    "year": "3rd"
+  },
+  {
+    "course": "RSM422",
+    "campus": "UTSG",
+    "semester": "Fall 2022",
+    "title": "Management Control",
+    "average": "B+",
+    "year": "4th"
+  },
+  {
+    "course": "SOC100",
+    "campus": "UTSG",
+    "semester": "Fall 2021",
+    "title": "Introduction to Sociology I: Sociological Perspectives",
+    "average": "C+",
+    "year": "1st"
+  },
+  {
+    "course": "SOC100",
+    "campus": "UTSG",
+    "semester": "Winter 2022",
+    "title": "Introduction to Sociology I: Sociological Perspectives",
+    "average": "C+",
+    "year": "1st"
+  },
+  {
+    "course": "SOC100",
+    "campus": "UTSG",
+    "semester": "Fall 2022",
+    "title": "Introduction to Sociology I: Sociological Perspectives",
+    "average": "B-",
+    "year": "1st"
+  },
+  {
+    "course": "SOC201",
+    "campus": "UTSG",
+    "semester": "Winter 2022",
+    "title": "Classical Sociological Theory",
+    "average": "B-",
+    "year": "2nd"
+  },
+  {
+    "course": "SOC202",
+    "campus": "UTSG",
+    "semester": "Fall 2022",
+    "title": "Introduction to Quantitative Methods in Sociology",
+    "average": "B",
+    "year": "2nd"
+  },
+  {
+    "course": "SOC204",
+    "campus": "UTSG",
+    "semester": "Winter 2022",
+    "title": "Introduction to Qualitative Methods in Sociology",
+    "average": "B",
+    "year": "2nd"
+  },
+  {
+    "course": "SOC204",
+    "campus": "UTSG",
+    "semester": "Fall 2022",
+    "title": "Introduction to Qualitative Methods in Sociology",
+    "average": "B",
+    "year": "2nd"
+  },
+  {
+    "course": "SOC212",
+    "campus": "UTSG",
+    "semester": "Winter 2022",
+    "title": "Sociology of Crime & Deviance",
+    "average": "B-",
+    "year": "2nd"
+  },
+  {
+    "course": "SOC251",
+    "campus": "UTSG",
+    "semester": "Winter 2022",
+    "title": "Contemporary Sociological Theory",
+    "average": "B-",
+    "year": "2nd"
+  },
+  {
+    "course": "SOC265",
+    "campus": "UTSG",
+    "semester": "Fall 2021",
+    "title": "Gender and Society",
+    "average": "B-",
+    "year": "2nd"
+  },
+  {
+    "course": "SPA100",
+    "campus": "UTSG",
+    "semester": "Winter 2022",
+    "title": "Spanish for Beginners",
+    "average": "B-",
+    "year": "1st"
+  },
+  {
+    "course": "STA130",
+    "campus": "UTSG",
+    "semester": "Fall 2021",
+    "title": "An Introduction to Statistical Reasoning and Data Science",
+    "average": "B+",
+    "year": "1st"
+  },
+  {
+    "course": "STA130",
+    "campus": "UTSG",
+    "semester": "Winter 2022",
+    "title": "An Introduction to Statistical Reasoning and Data Science",
+    "average": "B-",
+    "year": "1st"
+  },
+  {
+    "course": "STA130",
+    "campus": "UTSG",
+    "semester": "Fall 2022",
+    "title": "An Introduction to Statistical Reasoning and Data Science",
+    "average": "B-",
+    "year": "1st"
+  },
+  {
+    "course": "STA197",
+    "campus": "UTSG",
+    "semester": "Fall 2022",
+    "title": "Thinking Better with Statistics",
+    "average": "A-",
+    "year": "1st"
+  },
+  {
+    "course": "STA220",
+    "campus": "UTSG",
+    "semester": "Fall 2021",
+    "title": "The Practice of Statistics I",
+    "average": "C+",
+    "year": "2nd"
+  },
+  {
+    "course": "STA220",
+    "campus": "UTSG",
+    "semester": "Fall 2022",
+    "title": "The Practice of Statistics I",
+    "average": "B-",
+    "year": "2nd"
+  },
+  {
+    "course": "STA237",
+    "campus": "UTSG",
+    "semester": "Fall 2021",
+    "title": "Probability, Statistics and Data Analysis I",
+    "average": "B+",
+    "year": "2nd"
+  },
+  {
+    "course": "STA237",
+    "campus": "UTSG",
+    "semester": "Fall 2022",
+    "title": "Probability, Statistics and Data Analysis I",
+    "average": "C",
+    "year": "2nd"
+  },
+  {
+    "course": "STA238",
+    "campus": "UTSG",
+    "semester": "Winter 2022",
+    "title": "Probability, Statistics and Data Analysis II",
+    "average": "B",
+    "year": "2nd"
+  },
+  {
+    "course": "STA247",
+    "campus": "UTSG",
+    "semester": "Fall 2021",
+    "title": "Probability with Computer Applications",
+    "average": "B",
+    "year": "2nd"
+  },
+  {
+    "course": "STA247",
+    "campus": "UTSG",
+    "semester": "Fall 2022",
+    "title": "Probability with Computer Applications",
+    "average": "B-",
+    "year": "2nd"
+  },
+  {
+    "course": "STA257",
+    "campus": "UTSG",
+    "semester": "Fall 2022",
+    "title": "Probability and Statistics I",
+    "average": "B-",
+    "year": "2nd"
+  },
+  {
+    "course": "STA261",
+    "campus": "UTSG",
+    "semester": "Winter 2022",
+    "title": "Probability and Statistics II",
+    "average": "B-",
+    "year": "2nd"
+  },
+  {
+    "course": "STA288",
+    "campus": "UTSG",
+    "semester": "Winter 2022",
+    "title": "Statistics and Scientific Inquiry in the Life Sciences",
+    "average": "B",
+    "year": "2nd"
+  },
+  {
+    "course": "STA302",
+    "campus": "UTSG",
+    "semester": "Fall 2021",
+    "title": "Methods of Data Analysis I",
+    "average": "B-",
+    "year": "3rd"
+  },
+  {
+    "course": "STA302",
+    "campus": "UTSG",
+    "semester": "Winter 2022",
+    "title": "Methods of Data Analysis I",
+    "average": "C+",
+    "year": "3rd"
+  },
+  {
+    "course": "STA302",
+    "campus": "UTSG",
+    "semester": "Fall 2022",
+    "title": "Methods of Data Analysis I",
+    "average": "B-",
+    "year": "3rd"
+  },
+  {
+    "course": "STA303",
+    "campus": "UTSG",
+    "semester": "Winter 2022",
+    "title": "Methods of Data Analysis II",
+    "average": "B",
+    "year": "3rd"
+  },
+  {
+    "course": "STA304",
+    "campus": "UTSG",
+    "semester": "Winter 2022",
+    "title": "Surveys, Sampling and Observational Data",
+    "average": "B",
+    "year": "3rd"
+  },
+  {
+    "course": "STA304",
+    "campus": "UTSG",
+    "semester": "Fall 2022",
+    "title": "Surveys, Sampling and Observational Data",
+    "average": "B-",
+    "year": "3rd"
+  },
+  {
+    "course": "STA305",
+    "campus": "UTSG",
+    "semester": "Winter 2022",
+    "title": "Design and Analysis of Experiments",
+    "average": "B",
+    "year": "3rd"
+  },
+  {
+    "course": "STA314",
+    "campus": "UTSG",
+    "semester": "Fall 2022",
+    "title": "Statistical Methods for Machine Learning I",
+    "average": "B-",
+    "year": "3rd"
+  },
+  {
+    "course": "STA347",
+    "campus": "UTSG",
+    "semester": "Fall 2021",
+    "title": "Probability",
+    "average": "B-",
+    "year": "3rd"
+  },
+  {
+    "course": "STA355",
+    "campus": "UTSG",
+    "semester": "Winter 2022",
+    "title": "Theory of Statistical Practice",
+    "average": "B-",
+    "year": "3rd"
+  },
+  {
+    "course": "STA365",
+    "campus": "UTSG",
+    "semester": "Winter 2022",
+    "title": "Applied Bayesian Statistics",
+    "average": "B+",
+    "year": "3rd"
+  },
+  {
+    "course": "STA410",
+    "campus": "UTSG",
+    "semester": "Winter 2022",
+    "title": "Statistical Computation",
+    "average": "C",
+    "year": "4th"
+  },
+  {
+    "course": "STA437",
+    "campus": "UTSG",
+    "semester": "Winter 2022",
+    "title": "Methods for Multivariate Data",
+    "average": "C+",
+    "year": "4th"
+  },
+  {
+    "course": "STA447",
+    "campus": "UTSG",
+    "semester": "Winter 2022",
+    "title": "Stochastic Processes",
+    "average": "B",
+    "year": "4th"
+  },
+  {
+    "course": "STA457",
+    "campus": "UTSG",
+    "semester": "Winter 2022",
+    "title": "Time Series Analysis",
+    "average": "B+",
+    "year": "4th"
+  },
+  {
+    "course": "VIC121",
+    "campus": "UTSG",
+    "semester": "Fall 2022",
+    "title": "Evaluating Healthcare: Problems and Solutions",
+    "average": "B+",
+    "year": "1st"
+  },
+  {
+    "course": "VIC198",
+    "campus": "UTSG",
+    "semester": "Winter 2022",
+    "title": "Posters and Propaganda",
+    "average": "A-",
+    "year": "1st"
+  },
+  {
+    "course": "WDW196",
+    "campus": "UTSG",
+    "semester": "Fall 2021",
+    "title": "From Rayguns to Light Sabers: Science Fiction in Contemporary Culture",
+    "average": "B+",
+    "year": "1st"
+  },
+  {
+    "course": "WGS373",
+    "campus": "UTSG",
+    "semester": "Fall 2021",
+    "title": "Gender and Violence",
+    "average": "B+",
+    "year": "3rd"
+  },
+  {
+    "course": "WGS380",
+    "campus": "UTSG",
+    "semester": "Winter 2022",
+    "title": "Feminist Graphic Novels",
+    "average": "B+",
+    "year": "3rd"
+  },
+  {
+    "course": "WRR103",
+    "campus": "UTSG",
+    "semester": "Winter 2022",
+    "title": "Writing Essays",
+    "average": "C+",
+    "year": "1st"
+  },
+  {
+    "course": "CSC108",
+    "title": "Introduction to Computer Programming",
+    "campus": "UTM",
+    "semester": "Fall 2019",
+    "average": "C",
+    "year": "1st"
+  },
+  {
+    "course": "GGR111",
+    "title": "Human Geography",
+    "campus": "UTM",
+    "semester": "Fall 2019",
+    "average": "B-",
+    "year": "1st"
+  },
+  {
+    "course": "MAT102",
+    "title": "Introduction to Mathematical Proofs",
+    "campus": "UTM",
+    "semester": "Fall 2019",
+    "average": "C+",
+    "year": "1st"
+  },
+  {
+    "course": "MAT135",
+    "title": "Differential Calculus",
+    "campus": "UTM",
+    "semester": "Fall 2019",
+    "average": "C+",
+    "year": "1st"
+  },
+  {
+    "course": "RLG101",
+    "title": "Introduction to the Study of Religion",
+    "campus": "UTM",
+    "semester": "Fall 2019",
+    "average": "B-",
+    "year": "1st"
+  },
+  {
+    "course": "CSC148",
+    "title": "Introduction to Computer Science",
+    "campus": "UTM",
+    "semester": "Winter 2020",
+    "average": "C",
+    "year": "1st"
+  },
+  {
+    "course": "LIN101",
+    "title": "Introduction to General Linguistics: The Sounds of Language",
+    "campus": "UTM",
+    "semester": "Winter 2020",
+    "average": "B",
+    "year": "1st"
+  },
+  {
+    "course": "MAT136",
+    "title": "Integral Calculus",
+    "campus": "UTM",
+    "semester": "Winter 2020",
+    "average": "B",
+    "year": "1st"
+  },
+  {
+    "course": "MAT223",
+    "title": "Linear Algebra I",
+    "campus": "UTM",
+    "semester": "Winter 2020",
+    "average": "C+",
+    "year": "2nd"
+  },
+  {
+    "course": "STA107",
+    "title": "An Introduction to Probability and Modelling",
+    "campus": "UTM",
+    "semester": "Winter 2020",
+    "average": "B-",
+    "year": "1st"
+  },
+  {
+    "course": "MAT232",
+    "title": "Calculus of Several Variables",
+    "campus": "UTM",
+    "semester": "Summer 2020",
+    "average": "B",
+    "year": "2nd"
+  },
+  {
+    "course": "STA256",
+    "title": "Probability and Statistics I",
+    "campus": "UTM",
+    "semester": "Summer 2020",
+    "average": "B",
+    "year": "2nd"
+  },
+  {
+    "course": "CSC148",
+    "title": "Introduction to Computer Science",
+    "campus": "UTM",
+    "semester": "Fall 2020",
+    "average": "B-",
+    "year": "1st"
+  },
+  {
+    "course": "CSC207",
+    "title": "Software Design",
+    "campus": "UTM",
+    "semester": "Fall 2020",
+    "average": "B",
+    "year": "2nd"
+  },
+  {
+    "course": "CSC236",
+    "title": "Introduction to the Theory of Computation",
+    "campus": "UTM",
+    "semester": "Fall 2020",
+    "average": "C+",
+    "year": "2nd"
+  },
+  {
+    "course": "CSC209",
+    "title": "Software Tools and Systems Programming",
+    "campus": "UTM",
+    "semester": "Winter 2021",
+    "average": "C+",
+    "year": "2nd"
+  },
+  {
+    "course": "CSC258",
+    "title": "Computer Organization",
+    "campus": "UTM",
+    "semester": "Winter 2021",
+    "average": "B",
+    "year": "2nd"
+  },
+  {
+    "course": "CSC263",
+    "title": "Data Structures and Analysis",
+    "campus": "UTM",
+    "semester": "Winter 2021",
+    "average": "C",
+    "year": "2nd"
+  },
+  {
+    "course": "CSC363",
+    "title": "Computational Complexity and Computability",
+    "campus": "UTM",
+    "semester": "Winter 2021",
+    "average": "C+",
+    "year": "3rd"
+  },
+  {
+    "course": "STA258",
+    "title": "Statistics with Applied Probability",
+    "campus": "UTM",
+    "semester": "Winter 2021",
+    "average": "B",
+    "year": "2nd"
+  },
+  {
+    "course": "POL112",
+    "title": "Democracy in Theory and Practice",
+    "campus": "UTM",
+    "semester": "Summer 2021",
+    "average": "B-",
+    "year": "1st"
+  },
+  {
+    "course": "CSC324",
+    "title": "Principles of Programming Languages",
+    "campus": "UTM",
+    "semester": "Fall 2021",
+    "average": "B-",
+    "year": "3rd"
+  },
+  {
+    "course": "CSC347",
+    "title": "Introduction to Information Security",
+    "campus": "UTM",
+    "semester": "Fall 2021",
+    "average": "B+",
+    "year": "3rd"
+  },
+  {
+    "course": "CSC369",
+    "title": "Operating Systems",
+    "campus": "UTM",
+    "semester": "Fall 2021",
+    "average": "B",
+    "year": "3rd"
+  },
+  {
+    "course": "CSC373",
+    "title": "Algorithm Design and Analysis",
+    "campus": "UTM",
+    "semester": "Fall 2021",
+    "average": "B",
+    "year": "3rd"
+  },
+  {
+    "course": "CSC301",
+    "title": "Introduction to Software Engineering",
+    "campus": "UTM",
+    "semester": "Winter 2022",
+    "average": "B",
+    "year": "3rd"
+  },
+  {
+    "course": "CSC309",
+    "title": "Programming on the Web",
+    "campus": "UTM",
+    "semester": "Winter 2022",
+    "average": "B-",
+    "year": "3rd"
+  },
+  {
+    "course": "CSC343",
+    "title": "Introduction to Databases",
+    "campus": "UTM",
+    "semester": "Winter 2022",
+    "average": "B+",
+    "year": "3rd"
+  },
+  {
+    "course": "CSC358",
+    "title": "Principles of Computer Networks",
+    "campus": "UTM",
+    "semester": "Winter 2022",
+    "average": "B+",
+    "year": "3rd"
+  },
+  {
+    "course": "CSC384",
+    "title": "Introduction to Artificial Intelligence",
+    "campus": "UTM",
+    "semester": "Winter 2022",
+    "average": "B",
+    "year": "3rd"
+  },
+  {
+    "course": "SOC100",
+    "title": "Introduction to Sociology",
+    "campus": "UTM",
+    "semester": "Winter 2022",
+    "average": "C+",
+    "year": "1st"
+  },
+  {
+    "course": "CSC108",
+    "title": "Introduction to Computer Programming",
+    "campus": "UTM",
+    "semester": "Fall 2022",
+    "average": "C+",
+    "year": "1st"
+  },
+  {
+    "course": "EDS100",
+    "title": "Introduction to Education Studies",
+    "campus": "UTM",
+    "semester": "Fall 2022",
+    "average": "B",
+    "year": "1st"
+  },
+  {
+    "course": "ISP100",
+    "title": "Writing for University and Beyond",
+    "campus": "UTM",
+    "semester": "Fall 2022",
+    "average": "B",
+    "year": "1st"
+  },
+  {
+    "course": "MAT102",
+    "title": "Introduction to Mathematical Proofs",
+    "campus": "UTM",
+    "semester": "Fall 2022",
+    "average": "B-",
+    "year": "1st"
+  },
+  {
+    "course": "MAT132",
+    "title": "Differential Calculus for Life Sciences",
+    "campus": "UTM",
+    "semester": "Fall 2022",
+    "average": "C",
+    "year": "1st"
+  },
+  {
+    "course": "ANT102",
+    "title": "Introduction to Sociocultural and Linguistic Anthropology",
+    "campus": "UTM",
+    "semester": "Fall 2022",
+    "average": "C+",
+    "year": "1st"
+  },
+  {
+    "course": "MAT135",
+    "title": "Differential Calculus",
+    "campus": "UTM",
+    "semester": "Fall 2022",
+    "average": "C",
+    "year": "1st"
+  },
+  {
+    "course": "POL112",
+    "title": "Democracy in Theory and Practice",
+    "campus": "UTM",
+    "semester": "Fall 2022",
+    "average": "C+",
+    "year": "1st"
+  },
+  {
+    "course": "MAT224",
+    "title": "Linear Algebra II",
+    "campus": "UTM",
+    "semester": "Fall 2022",
+    "average": "D+",
+    "year": "2nd"
+  },
+  {
+    "course": "SOC100",
+    "title": "Introduction to Sociology",
+    "campus": "UTM",
+    "semester": "Fall 2022",
+    "average": "C+",
+    "year": "1st"
+  },
+  {
+    "course": "POL113",
+    "title": "Ideas and Ideologies",
+    "campus": "UTM",
+    "semester": "Fall 2022",
+    "average": "B-",
+    "year": "1st"
+  },
+  {
+    "course": "STA215",
+    "title": "Introduction to Applied Statistics",
+    "campus": "UTM",
+    "semester": "Fall 2022",
+    "average": "B-",
+    "year": "2nd"
+  },
+  {
+    "course": "ERS201",
+    "title": "Earth Materials",
+    "campus": "UTM",
+    "semester": "Fall 2022",
+    "average": "C+",
+    "year": "2nd"
+  },
+  {
+    "course": "ENV330",
+    "title": "Experimental Design in Environmental Science",
+    "campus": "UTM",
+    "semester": "Fall 2022",
+    "average": "B",
+    "year": "3rd"
+  },
+  {
+    "course": "ENV495",
+    "title": "Restoration Ecology I",
+    "campus": "UTM",
+    "semester": "Fall 2022",
+    "average": "B",
+    "year": "4th"
+  },
+  {
+    "course": "BIO318Y",
+    "title": "Animal Behaviour",
+    "campus": "UTM",
+    "semester": "Fall 2022 - Winter 2023",
+    "average": "B+",
+    "year": "3rd"
+  },
+  {
+    "course": "BIO380",
+    "title": "Human Development",
+    "campus": "UTM",
+    "semester": "Winter 2023",
+    "average": "C+",
+    "year": "3rd"
+  },
+  {
+    "course": "ENV332",
+    "title": "Practicum in Environmental Project Management",
+    "campus": "UTM",
+    "semester": "Winter 2023",
+    "average": "A",
+    "year": "3rd"
+  },
+  {
+    "course": "MAT224",
+    "title": "Linear Algebra II",
+    "campus": "UTM",
+    "semester": "Winter 2023",
+    "average": "C-",
+    "year": "2nd"
+  },
+  {
+    "course": "MAT157Y",
+    "title": "Analysis I",
+    "campus": "UTM",
+    "semester": "Fall 2022 - Winter 2023",
+    "average": "D+",
+    "year": "1st"
+  },
+  {
+    "course": "STA258",
+    "title": "Statistics with Applied Probability",
+    "campus": "UTM",
+    "semester": "Winter 2023",
+    "average": "C-",
+    "year": "2nd"
+  },
+  {
+    "course": "CSC148",
+    "title": "Introduction to Computer Science",
+    "campus": "UTM",
+    "semester": "Winter 2023",
+    "average": "C+",
+    "year": "1st"
+  },
+  {
+    "course": "MAT102",
+    "title": "Introduction to Mathematical Proofs",
+    "campus": "UTM",
+    "semester": "Winter 2023",
+    "average": "C-",
+    "year": "1st"
+  },
+  {
+    "course": "MAT137Y",
+    "title": "Calculus",
+    "campus": "UTM",
+    "semester": "Fall 2022 - Winter 2023",
+    "average": "C",
+    "year": "1st"
+  },
+  {
+    "course": "FSC239Y",
+    "title": "Introduction to Forensic Science",
+    "campus": "UTM",
+    "semester": "Fall 2022 - Winter 2023",
+    "average": "C+",
+    "year": "2nd"
+  },
+  {
+    "course": "ANT101",
+    "title": "Introduction to Biological Anthropology and Archaeology",
+    "campus": "UTM",
+    "semester": "Winter 2023",
+    "average": "C+",
+    "year": "1st"
+  },
+  {
+    "course": "BIO153",
+    "title": "Diversity of Organisms",
+    "campus": "UTM",
+    "semester": "Winter 2023",
+    "average": "C+",
+    "year": "1st"
+  },
+  {
+    "course": "ENV100Y",
+    "title": "The Environment",
+    "campus": "UTM",
+    "semester": "Fall 2022 - Winter 2023",
+    "average": "C",
+    "year": "1st"
+  },
+  {
+    "course": "POL115",
+    "title": "Evidence and Argument in the Study of Politics",
+    "campus": "UTM",
+    "semester": "Winter 2023",
+    "average": "C+",
+    "year": "1st"
+  },
+  {
+    "course": "MUN101",
+    "title": "Global Innovation I: Issues and Perspectives",
+    "campus": "UTSG",
+    "semester": "Fall 2022",
+    "average": "A-",
+    "year": "1st"
+  },
+  {
+    "course": "STA130",
+    "title": "An Introduction to Statistical Reasoning and Data Science",
+    "campus": "UTSG",
+    "semester": "Fall 2022",
+    "average": "B",
+    "year": "1st"
+  },
+  {
+    "course": "MAT223",
+    "title": "Linear Algebra I",
+    "campus": "UTSG",
+    "semester": "Fall 2022",
+    "average": "B-",
+    "year": "2nd"
+  },
+  {
+    "course": "PSY100",
+    "title": "Introductory Psychology",
+    "campus": "UTSG",
+    "semester": "Winter 2023",
+    "average": "C+",
+    "year": "1st"
+  },
+  {
+    "course": "MAT224",
+    "title": "Linear Algebra II",
+    "campus": "UTSG",
+    "semester": "Winter 2023",
+    "average": "C+",
+    "year": "2nd"
+  },
+  {
+    "course": "MAT235",
+    "title": "Multivariable Calculus",
+    "campus": "UTSG",
+    "semester": "Winter 2023",
+    "average": "C+",
+    "year": "2nd"
+  },
+  {
+    "course": "BIO220",
+    "title": "From Genomes to Ecosystems in a Changing World",
+    "campus": "UTSG",
+    "semester": "Winter 2023",
+    "average": "B-",
+    "year": "2nd"
+  },
+  {
+    "course": "BIO260",
+    "title": "Concepts in Genetics",
+    "campus": "UTSG",
+    "semester": "Winter 2023",
+    "average": "B-",
+    "year": "2nd"
+  },
+  {
+    "course": "CHM136",
+    "title": "Introductory Organic Chemistry I",
+    "campus": "UTSG",
+    "semester": "Winter 2023",
+    "average": "C+",
+    "year": "1st"
+  },
+  {
+    "course": "NFS284",
+    "title": "Basic Human Nutrition",
+    "campus": "UTSG",
+    "semester": "Winter 2023",
+    "average": "B",
+    "year": "2nd"
+  },
+  {
+    "course": "ECO102",
+    "title": "Principles of Macroeconomics",
+    "campus": "UTSG",
+    "semester": "Winter 2023",
+    "average": "C+",
+    "year": "1st"
+  },
+  {
+    "course": "PSY493",
+    "title": "Cognitive Neuroscience",
+    "campus": "UTSG",
+    "semester": "Winter 2023",
+    "average": "B",
+    "year": "4th"
+  },
+  {
+    "course": "CAR315",
+    "title": "Caribbean Foodways Across History, Culture and Diaspora",
+    "campus": "UTSG",
+    "semester": "Winter 2023",
+    "average": "A-",
+    "year": "3rd"
+  },
+  {
+    "course": "MAT137Y",
+    "title": "Calculus with Proofs",
+    "campus": "UTSG",
+    "semester": "Fall 2022 - Winter 2023",
+    "average": "C",
+    "year": "1st"
+  },
+  {
+    "course": "PCL218",
+    "title": "Cannabis the Drug",
+    "campus": "UTSG",
+    "semester": "Winter 2023",
+    "average": "A-",
+    "year": "2nd"
+  },
+  {
+    "course": "MAT454",
+    "title": "Complex Analysis II",
+    "campus": "UTSG",
+    "semester": "Winter 2023",
+    "average": "A-",
+    "year": "4th"
+  },
+  {
+    "course": "PHL100",
+    "title": "Introduction to Philosophy (Historical)",
+    "campus": "UTSG",
+    "semester": "Winter 2023",
+    "average": "C+",
+    "year": "1st"
+  },
+  {
+    "course": "BIO130",
+    "title": "Molecular and Cell Biology",
+    "campus": "UTSG",
+    "semester": "Winter 2023",
+    "average": "B",
+    "year": "1st"
+  },
+  {
+    "course": "PHL100",
+    "title": "Introduction to Philosophy (Historical)",
+    "campus": "UTSG",
+    "semester": "Winter 2023",
+    "average": "B-",
+    "year": "1st"
+  },
+  {
+    "course": "MAT136",
+    "title": "Calculus II",
+    "campus": "UTSG",
+    "semester": "Winter 2023",
+    "average": "C+",
+    "year": "1st"
+  },
+  {
+    "course": "AST121",
+    "title": "Origin and Evolution of the Universe",
+    "campus": "UTSG",
+    "semester": "Winter 2023",
+    "average": "C+",
+    "year": "1st"
+  },
+  {
+    "course": "SOC100",
+    "title": "Introduction to Sociology I: Sociological Perspectives",
+    "campus": "UTSG",
+    "semester": "Winter 2023",
+    "average": "B-",
+    "year": "1st"
+  },
+  {
+    "course": "CLA260",
+    "title": "Method and Theory in Classics",
+    "campus": "UTSG",
+    "semester": "Winter 2023",
+    "average": "B+",
+    "year": "2nd"
+  },
+  {
+    "course": "CLA368",
+    "title": "Augustus and the Julio-Claudians",
+    "campus": "UTSG",
+    "semester": "Winter 2023",
+    "average": "B",
+    "year": "3rd"
+  },
+  {
+    "course": "CSC148",
+    "title": "Introduction to Computer Science",
+    "campus": "UTSG",
+    "semester": "Winter 2023",
+    "average": "B-",
+    "year": "1st"
+  },
+  {
+    "course": "HIS102",
+    "title": "Empires, Encounters and Exchanges",
+    "campus": "UTSG",
+    "semester": "Winter 2023",
+    "average": "C+",
+    "year": "1st"
+  },
+  {
+    "course": "LAT102",
+    "title": "Introductory Latin II",
+    "campus": "UTSG",
+    "semester": "Winter 2023",
+    "average": "C+",
+    "year": "1st"
+  },
+  {
+    "course": "MAT135",
+    "title": "Calculus I",
+    "campus": "UTSG",
+    "semester": "Winter 2023",
+    "average": "C+",
+    "year": "1st"
+  },
+  {
+    "course": "POL205",
+    "title": "International Relations in the Anthropocene",
+    "campus": "UTSG",
+    "semester": "Winter 2023",
+    "average": "B-",
+    "year": "2nd"
+  },
+  {
+    "course": "ECO320",
+    "title": "Economic Analysis of Law",
+    "campus": "UTSG",
+    "semester": "Winter 2023",
+    "average": "B-",
+    "year": "3rd"
+  },
+  {
+    "course": "GGR305",
+    "title": "Biogeography",
+    "campus": "UTSG",
+    "semester": "Winter 2023",
+    "average": "C+",
+    "year": "3rd"
+  },
+  {
+    "course": "MAT391",
+    "title": "History of Mathematics after 1700",
+    "campus": "UTSG",
+    "semester": "Winter 2023",
+    "average": "B-",
+    "year": "3rd"
+  },
+  {
+    "course": "STA238",
+    "title": "Probability, Statistics and Data Analysis II",
+    "campus": "UTSG",
+    "semester": "Winter 2023",
+    "average": "B+",
+    "year": "2nd"
+  },
+  {
+    "course": "MAT133",
+    "title": "Calculus and Linear Algebra for Commerce",
+    "campus": "UTSG",
+    "semester": "Winter 2023",
+    "average": "C+",
+    "year": "1st"
+  },
+  {
+    "course": "RSM219",
+    "title": "Introduction to Financial Accounting",
+    "campus": "UTSG",
+    "semester": "Winter 2023",
+    "average": "B",
+    "year": "2nd"
+  },
+  {
+    "course": "RSM250",
+    "title": "Principles of Marketing",
+    "campus": "UTSG",
+    "semester": "Winter 2023",
+    "average": "B+",
+    "year": "2nd"
+  },
+  {
+    "course": "MUN102",
+    "title": "Global Innovation II: Challenges and Solutions",
+    "campus": "UTSG",
+    "semester": "Winter 2023",
+    "average": "A-",
+    "year": "1st"
+  },
+  {
+    "course": "MUN105Y",
+    "title": "Global Problem-Solving: Laboratory Opportunities",
+    "campus": "UTSG",
+    "semester": "Fall 2022 - Winter 2023",
+    "average": "A",
+    "year": "1st"
+  },
+  {
+    "course": "MAT237Y",
+    "title": "Multivariable Calculus with Proofs",
+    "campus": "UTSG",
+    "semester": "Fall 2022 - Winter 2023",
+    "average": "C+",
+    "year": "2nd"
+  },
+  {
+    "course": "CSC258",
+    "title": "Computer Organization",
+    "campus": "UTSG",
+    "semester": "Winter 2023",
+    "average": "B+",
+    "year": "2nd"
+  },
+  {
+    "course": "COG403",
+    "title": "Seminar in Cognitive Science",
+    "campus": "UTSG",
+    "semester": "Winter 2023",
+    "average": "B+",
+    "year": "4th"
+  },
+  {
+    "course": "CSC111",
+    "title": "Foundations of Computer Science II",
+    "campus": "UTSG",
+    "semester": "Winter 2023",
+    "average": "A-",
+    "year": "1st"
+  },
+  {
+    "course": "MUS210",
+    "title": "Music in Film",
+    "campus": "UTSG",
+    "semester": "Winter 2023",
+    "average": "C+",
+    "year": "2nd"
+  },
+  {
+    "course": "CSCA48",
+    "title": "Introduction to Computer Science II",
+    "campus": "UTSC",
+    "semester": "Winter 2023",
+    "average": "B-",
+    "year": "1st"
+  },
+  {
+    "course": "MATA22",
+    "title": "Linear Algebra I for Mathematical Sciences",
+    "campus": "UTSC",
+    "semester": "Winter 2023",
+    "average": "C+",
+    "year": "1st"
+  },
+  {
+    "course": "MATA31",
+    "title": "Calculus I for Mathematical Sciences",
+    "campus": "UTSC",
+    "semester": "Fall 2022",
+    "average": "C",
+    "year": "1st"
+  },
+  {
+    "course": "CSCA08",
+    "title": "Introduction to Computer Science I",
+    "campus": "UTSC",
+    "semester": "Fall 2022",
+    "average": "B-",
+    "year": "1st"
+  },
+  {
+    "course": "MATA37",
+    "title": "Calculus II for Mathematical Sciences",
+    "campus": "UTSC",
+    "semester": "Winter 2023",
+    "average": "C-",
+    "year": "1st"
+  },
+  {
+    "course": "CSCA67",
+    "title": "Discrete Mathematics",
+    "campus": "UTSC",
+    "semester": "Winter 2023",
+    "average": "C+",
+    "year": "1st"
+  },
+  {
+    "course": "BIOA01",
+    "title": "Life on Earth",
+    "campus": "UTSC",
+    "semester": "Fall 2021",
+    "average": "B-",
+    "year": "1st"
+  },
+  {
+    "course": "CHMA10",
+    "title": "Introductory Chemistry I",
+    "campus": "UTSC",
+    "semester": "Fall 2021",
+    "average": "B",
+    "year": "1st"
+  },
+  {
+    "course": "MATA29",
+    "title": "Calculus I for the Life Sciences",
+    "campus": "UTSC",
+    "semester": "Fall 2021",
+    "average": "B",
+    "year": "1st"
+  },
+  {
+    "course": "PHYA11",
+    "title": "Physics I for the Life Sciences",
+    "campus": "UTSC",
+    "semester": "Fall 2021",
+    "average": "B-",
+    "year": "1st"
+  },
+  {
+    "course": "PSYA01",
+    "title": "Introduction to Biological and Cognitive Psychology",
+    "campus": "UTSC",
+    "semester": "Fall 2021",
+    "average": "C+",
+    "year": "1st"
+  },
+  {
+    "course": "BIOA02",
+    "title": "Life on Earth",
+    "campus": "UTSC",
+    "semester": "Winter 2022",
+    "average": "B-",
+    "year": "1st"
+  },
+  {
+    "course": "CHMA11",
+    "title": "Introductory Chemistry II",
+    "campus": "UTSC",
+    "semester": "Winter 2022",
+    "average": "B-",
+    "year": "1st"
+  },
+  {
+    "course": "CLAA06",
+    "title": "Ancient Mythology II",
+    "campus": "UTSC",
+    "semester": "Winter 2022",
+    "average": "A-",
+    "year": "1st"
+  },
+  {
+    "course": "LINB18",
+    "title": "English Grammar",
+    "campus": "UTSC",
+    "semester": "Winter 2022",
+    "average": "B",
+    "year": "2nd"
+  },
+  {
+    "course": "PSYA02",
+    "title": "Introduction to Clinical, Developmental, Personality and Social Psychology",
+    "campus": "UTSC",
+    "semester": "Winter 2022",
+    "average": "B-",
+    "year": "1st"
+  },
+  {
+    "course": "BIOB10",
+    "title": "Cell Biology",
+    "campus": "UTSC",
+    "semester": "Fall 2022",
+    "average": "B",
+    "year": "2nd"
+  },
+  {
+    "course": "BIOB34",
+    "title": "Animal Physiology",
+    "campus": "UTSC",
+    "semester": "Fall 2022",
+    "average": "A-",
+    "year": "2nd"
+  },
+  {
+    "course": "BIOB50",
+    "title": "Ecology",
+    "campus": "UTSC",
+    "semester": "Fall 2022",
+    "average": "B",
+    "year": "2nd"
+  },
+  {
+    "course": "PSYB07",
+    "title": "Data Analysis in Psychology",
+    "campus": "UTSC",
+    "semester": "Fall 2022",
+    "average": "C+",
+    "year": "2nd"
+  },
+  {
+    "course": "PSYB10",
+    "title": "Introduction to Social Psychology",
+    "campus": "UTSC",
+    "semester": "Fall 2022",
+    "average": "C+",
+    "year": "2nd"
+  },
+  {
+    "course": "ANTA02",
+    "title": "Introduction to Anthropology",
+    "campus": "UTSC",
+    "semester": "Winter 2023",
+    "average": "TBA",
+    "year": "1st"
+  },
+  {
+    "course": "BIOB11",
+    "title": "Molecular Aspects of Cellular and Genetic Processes",
+    "campus": "UTSC",
+    "semester": "Winter 2023",
+    "average": "TBA",
+    "year": "2nd"
+  },
+  {
+    "course": "BIOB38",
+    "title": "Plants and Society",
+    "campus": "UTSC",
+    "semester": "Winter 2023",
+    "average": "TBA",
+    "year": "2nd"
+  },
+  {
+    "course": "BIOB51",
+    "title": "Evolutionary Biology",
+    "campus": "UTSC",
+    "semester": "Winter 2023",
+    "average": "TBA",
+    "year": "2nd"
+  },
+  {
+    "course": "PSYB51",
+    "title": "Introduction to Perception",
+    "campus": "UTSC",
+    "semester": "Winter 2023",
+    "average": "C",
+    "year": "2nd"
+  },
+  {
+    "course": "EESA06",
+    "title": "Introduction to Planet Earth",
+    "campus": "UTSC",
+    "semester": "Winter 2023",
+    "average": "B+",
+    "year": "1st"
+  }
+]
