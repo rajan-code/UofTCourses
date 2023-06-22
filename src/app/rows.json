@@ -131,7 +131,7 @@
     "course": "APS110",
     "campus": "UTSG",
     "semester": "Fall 2021",
-    "title": "",
+    "title": "Engineering Chemistry and Materials Science",
     "average": "B",
     "year": "1st"
   },
@@ -139,7 +139,7 @@
     "course": "APS110",
     "campus": "UTSG",
     "semester": "Fall 2022",
-    "title": "",
+    "title": "Engineering Chemistry and Materials Science",
     "average": "B",
     "year": "1st"
   },
@@ -147,7 +147,7 @@
     "course": "APS111",
     "campus": "UTSG",
     "semester": "Fall 2021",
-    "title": "",
+    "title": "Engineering Strategies & Practice I",
     "average": "B",
     "year": "1st"
   },
@@ -155,7 +155,7 @@
     "course": "APS111",
     "campus": "UTSG",
     "semester": "Fall 2022",
-    "title": "",
+    "title": "Engineering Strategies & Practice I",
     "average": "B-",
     "year": "1st"
   },
@@ -403,7 +403,7 @@
     "course": "CIV100",
     "campus": "UTSG",
     "semester": "Fall 2021",
-    "title": "",
+    "title": "Mechanics",
     "average": "C+",
     "year": "1st"
   },
@@ -411,7 +411,7 @@
     "course": "CIV100",
     "campus": "UTSG",
     "semester": "Fall 2022",
-    "title": "",
+    "title": "Mechanics",
     "average": "C-",
     "year": "1st"
   },
@@ -867,7 +867,7 @@
     "course": "ECE316",
     "campus": "UTSG",
     "semester": "Winter 2022",
-    "title": "",
+    "title": "Communication Systems",
     "average": "B",
     "year": "3rd"
   },
@@ -875,7 +875,7 @@
     "course": "ECE462",
     "campus": "UTSG",
     "semester": "Winter 2022",
-    "title": "",
+    "title": "Multimedia Systems",
     "average": "B+",
     "year": "4th"
   },
@@ -883,7 +883,7 @@
     "course": "ECE470",
     "campus": "UTSG",
     "semester": "Winter 2022",
-    "title": "",
+    "title": "Robot Modeling and Control",
     "average": "B+",
     "year": "4th"
   },
@@ -2211,7 +2211,7 @@
     "course": "MIE236",
     "campus": "UTSG",
     "semester": "Fall 2021",
-    "title": "",
+    "title": "Probability",
     "average": "B+",
     "year": "2nd"
   },
@@ -2219,7 +2219,7 @@
     "course": "MIE242",
     "campus": "UTSG",
     "semester": "Fall 2021",
-    "title": "",
+    "title": "Foundations of Cognitive Psychology",
     "average": "B",
     "year": "2nd"
   },
@@ -2227,7 +2227,7 @@
     "course": "MIE250",
     "campus": "UTSG",
     "semester": "Fall 2021",
-    "title": "",
+    "title": "Fundamentals of OOP",
     "average": "C+",
     "year": "2nd"
   },
@@ -3864,6 +3864,214 @@
     "year": "1st"
   },
   {
+    "course": "ANT102",
+    "title": "Introduction to Sociocultural and Linguistic Anthropology",
+    "campus": "UTM",
+    "semester": "Fall 2019",
+    "average": "C",
+    "year": "1st"
+  },
+  {
+    "course": "CHM110",
+    "title": "Chemical Principles 1",
+    "campus": "UTM",
+    "semester": "Fall 2019",
+    "average": "C-",
+    "year": "1st"
+  },
+  {
+    "course": "MAT132",
+    "title": "Differential Calculus for Life Sciences",
+    "campus": "UTM",
+    "semester": "Fall 2019",
+    "average": "C",
+    "year": "1st"
+  },
+  {
+    "course": "CHM120",
+    "title": "Chemical Principles 2",
+    "campus": "UTM",
+    "semester": "Winter 2020",
+    "average": "B-",
+    "year": "1st"
+  },
+  {
+    "course": "CSC108",
+    "title": "Introduction to Computer Programming",
+    "campus": "UTM",
+    "semester": "Winter 2020",
+    "average": "B-",
+    "year": "1st"
+  },
+  {
+    "course": "MAT102",
+    "title": "Introduction to Mathematical Proofs",
+    "campus": "UTM",
+    "semester": "Summer 2020",
+    "average": "C",
+    "year": "1st"
+  },
+  {
+    "course": "MAT132",
+    "title": "Differential Calculus for Life Sciences",
+    "campus": "UTM",
+    "semester": "Summer 2020",
+    "average": "C",
+    "year": "1st"
+  },
+  {
+    "course": "MAT134",
+    "title": "Integral Calculus for Life Sciences",
+    "campus": "UTM",
+    "semester": "Summer 2020",
+    "average": "C+",
+    "year": "1st"
+  },
+  {
+    "course": "CHM242",
+    "title": "Introductory Organic Chemistry I",
+    "campus": "UTM",
+    "semester": "Fall 2020",
+    "average": "B",
+    "year": "2nd"
+  },
+  {
+    "course": "MAT223",
+    "title": "Linear Algebra I",
+    "campus": "UTM",
+    "semester": "Fall 2020",
+    "average": "B-",
+    "year": "2nd"
+  },
+  {
+    "course": "MAT102",
+    "title": "Introduction to Mathematical Proofs",
+    "campus": "UTM",
+    "semester": "Winter 2021",
+    "average": "C",
+    "year": "1st"
+  },
+  {
+    "course": "MAT232",
+    "title": "Calculus of Several Variables",
+    "campus": "UTM",
+    "semester": "Winter 2021",
+    "average": "C+",
+    "year": "2nd"
+  },
+  {
+    "course": "SOC100",
+    "title": "Introduction to Sociology",
+    "campus": "UTM",
+    "semester": "Winter 2021",
+    "average": "C+",
+    "year": "1st"
+  },
+  {
+    "course": "BIO206",
+    "title": "Introductory Cell and Molecular Biology",
+    "campus": "UTM",
+    "semester": "Fall 2021",
+    "average": "B-",
+    "year": "2nd"
+  },
+  {
+    "course": "CSC207",
+    "title": "Software Design",
+    "campus": "UTM",
+    "semester": "Fall 2021",
+    "average": "B-",
+    "year": "2nd"
+  },
+  {
+    "course": "CSC236",
+    "title": "Introduction to the Theory of Computation",
+    "campus": "UTM",
+    "semester": "Fall 2021",
+    "average": "C+",
+    "year": "2nd"
+  },
+  {
+    "course": "STA215",
+    "title": "Introduction to Applied Statistics",
+    "campus": "UTM",
+    "semester": "Fall 2021",
+    "average": "C+",
+    "year": "2nd"
+  },
+  {
+    "course": "BIO202",
+    "title": "Introductory Animal Physiology",
+    "campus": "UTM",
+    "semester": "Winter 2022",
+    "average": "A-",
+    "year": "2nd"
+  },
+  {
+    "course": "BIO207",
+    "title": "Introductory Genetics",
+    "campus": "UTM",
+    "semester": "Winter 2022",
+    "average": "B+",
+    "year": "2nd"
+  },
+  {
+    "course": "CSC209",
+    "title": "Software Tools and Systems Programming",
+    "campus": "UTM",
+    "semester": "Winter 2022",
+    "average": "C",
+    "year": "2nd"
+  },
+  {
+    "course": "MAT322",
+    "title": "Mathematical Modelling in Biology",
+    "campus": "UTM",
+    "semester": "Winter 2022",
+    "average": "B",
+    "year": "3rd"
+  },
+  {
+    "course": "BIO360",
+    "title": "Biometrics I",
+    "campus": "UTM",
+    "semester": "Fall 2022",
+    "average": "B",
+    "year": "3rd"
+  },
+  {
+    "course": "BIO362",
+    "title": "Bioinformatics",
+    "campus": "UTM",
+    "semester": "Fall 2022",
+    "average": "B",
+    "year": "3rd"
+  },
+  {
+    "course": "BIO342",
+    "title": "Evolutionary Biology",
+    "campus": "UTM",
+    "semester": "Winter 2023",
+    "average": "C+",
+    "year": "3rd"
+  },
+  {
+    "course": "BIO361",
+    "title": "Biometrics II",
+    "campus": "UTM",
+    "semester": "Winter 2023",
+    "average": "B+",
+    "year": "3rd"
+  },
+  {
+    "course": "BIO427",
+    "title": "Data Science in Biology",
+    "campus": "UTM",
+    "semester": "Winter 2023",
+    "average": "B",
+    "year": "4th"
+  },
+  {
     "course": "MUN101",
     "title": "Global Innovation I: Issues and Perspectives",
     "campus": "UTSG",
@@ -4208,6 +4416,382 @@
     "year": "2nd"
   },
   {
+    "course": "APM346",
+    "title": "Partial Differential Equations",
+    "campus": "UTSG",
+    "semester": "Fall 2022",
+    "average": "C+",
+    "year": "3rd"
+  },
+  {
+    "course": "HPS203",
+    "title": "Making Sense of Uncertainty",
+    "campus": "UTSG",
+    "semester": "Fall 2022",
+    "average": "B",
+    "year": "2nd"
+  },
+  {
+    "course": "PHY407",
+    "title": "Computational Physics",
+    "campus": "UTSG",
+    "semester": "Fall 2022",
+    "average": "B+",
+    "year": "4th"
+  },
+  {
+    "course": "PHL273",
+    "title": "Environmental Ethics",
+    "campus": "UTSG",
+    "semester": "Fall 2022",
+    "average": "B-",
+    "year": "2nd"
+  },
+  {
+    "course": "ENV100",
+    "title": "Introduction to Environmental Studies",
+    "campus": "UTSG",
+    "semester": "Fall 2022",
+    "average": "B",
+    "year": "1st"
+  },
+  {
+    "course": "MAT137",
+    "title": "Calculus with Proofs",
+    "campus": "UTSG",
+    "semester": "Winter 2023",
+    "average": "C",
+    "year": "1st"
+  },
+  {
+    "course": "MAT223",
+    "title": "Linear Algebra I",
+    "campus": "UTSG",
+    "semester": "Winter 2023",
+    "average": "B-",
+    "year": "2nd"
+  },
+  {
+    "course": "HIS250",
+    "title": "History of Russia",
+    "campus": "UTSG",
+    "semester": "Fall/Winter 2023",
+    "average": "C+",
+    "year": "2nd"
+  },
+  {
+    "course": "HIS328",
+    "title": "Modern China",
+    "campus": "UTSG",
+    "semester": "Winter 2023",
+    "average": "B",
+    "year": "3rd"
+  },
+  {
+    "course": "HIS331",
+    "title": "Modern Baltic History",
+    "campus": "UTSG",
+    "semester": "Fall 2022",
+    "average": "B-",
+    "year": "3rd"
+  },
+  {
+    "course": "CSC300",
+    "title": "Computers and Society",
+    "campus": "UTSG",
+    "semester": "Fall 2022",
+    "average": "B+",
+    "year": "3rd"
+  },
+  {
+    "course": "CSC209",
+    "title": "Software Tools and Systems Programming",
+    "campus": "UTSG",
+    "semester": "Winter 2023",
+    "average": "B-",
+    "year": "2nd"
+  },
+  {
+    "course": "CSC263",
+    "title": "Data Structures and Analysis",
+    "campus": "UTSG",
+    "semester": "Winter 2023",
+    "average": "B",
+    "year": "2nd"
+  },
+  {
+    "course": "ENT200",
+    "title": "Innovation and Entrepreneurship",
+    "campus": "UTSG",
+    "semester": "Winter 2023",
+    "average": "B+",
+    "year": "2nd"
+  },
+  {
+    "course": "TRN151Y",
+    "title": "Global Governance",
+    "campus": "UTSG",
+    "semester": "Fall 2022 - Winter 2023",
+    "average": "A-",
+    "year": "1st"
+  },
+  {
+    "course": "POL109",
+    "title": "Might and Right: Power and Justice in International Relations",
+    "campus": "UTSG",
+    "semester": "Winter 2023",
+    "average": "B",
+    "year": "1st"
+  },
+  {
+    "course": "TRN152Y",
+    "title": "Justice & Global Conflict",
+    "campus": "UTSG",
+    "semester": "Fall 2022 - Winter 2023",
+    "average": "B+",
+    "year": "1st"
+  },
+  {
+    "course": "GER400",
+    "title": "Advanced German 1",
+    "campus": "UTSG",
+    "semester": "Fall 2022",
+    "average": "A-",
+    "year": "4th"
+  },
+  {
+    "course": "JSC270",
+    "title": "Data Science I",
+    "campus": "UTSG",
+    "semester": "Winter 2023",
+    "average": "A-",
+    "year": "2nd"
+  },
+  {
+    "course": "HIS103Y",
+    "title": "Strategy and Statecraft: War and Diplomacy in European History",
+    "campus": "UTSG",
+    "semester": "Fall 2022 - Winter 2023",
+    "average": "B-",
+    "year": "1st"
+  },
+  {
+    "course": "CIV100",
+    "title": "Mechanics",
+    "campus": "UTSG",
+    "semester": "Fall 2022",
+    "average": "C",
+    "year": "1st"
+  },
+  {
+    "course": "APS105",
+    "title": "Computer Fundamentals",
+    "campus": "UTSG",
+    "semester": "Winter 2023",
+    "average": "B-",
+    "year": "1st"
+  },
+  {
+    "course": "APS112",
+    "title": "Engineering Strategies & Practice II",
+    "campus": "UTSG",
+    "semester": "Winter 2023",
+    "average": "B+",
+    "year": "1st"
+  },
+  {
+    "course": "ECE110",
+    "title": "Electrical Fundamentals",
+    "campus": "UTSG",
+    "semester": "Winter 2023",
+    "average": "C+",
+    "year": "1st"
+  },
+  {
+    "course": "MAT187",
+    "title": "Calculus II",
+    "campus": "UTSG",
+    "semester": "Winter 2023",
+    "average": "B-",
+    "year": "1st"
+  },
+  {
+    "course": "MIE100",
+    "title": "Dynamics",
+    "campus": "UTSG",
+    "semester": "Winter 2023",
+    "average": "C+",
+    "year": "1st"
+  },
+  {
+    "course": "LIN101",
+    "title": "Introduction to Linguistics: Sound Structure",
+    "campus": "UTSG",
+    "semester": "Fall 2022",
+    "average": "C+",
+    "year": "1st"
+  },
+  {
+    "course": "LIN101",
+    "title": "Introduction to Linguistics: Sound Structure",
+    "campus": "UTSG",
+    "semester": "Winter 2023",
+    "average": "B-",
+    "year": "1st"
+  },
+  {
+    "course": "ENG140Y",
+    "title": "Literature for our Time",
+    "campus": "UTSG",
+    "semester": "Fall 2022 - Winter 2023",
+    "average": "B",
+    "year": "1st"
+  },
+  {
+    "course": "HPS100",
+    "title": "Introduction to History and Philosophy of Science and Technology",
+    "campus": "UTSG",
+    "semester": "Summer 2022",
+    "average": "B",
+    "year": "1st"
+  },
+  {
+    "course": "STA261",
+    "title": "Probability and Statistics II",
+    "campus": "UTSG",
+    "semester": "Winter 2023",
+    "average": "C+",
+    "year": "2nd"
+  },
+  {
+    "course": "JWE206",
+    "title": "Writing English Essays",
+    "campus": "UTSG",
+    "semester": "Winter 2023",
+    "average": "B-",
+    "year": "2nd"
+  },
+  {
+    "course": "GER150",
+    "title": "Introduction to German Culture (E)",
+    "campus": "UTSG",
+    "semester": "Winter 2023",
+    "average": "B",
+    "year": "1st"
+  },
+  {
+    "course": "BMS100",
+    "title": "Introduction to Book & Media Studies",
+    "campus": "UTSG",
+    "semester": "Fall 2022",
+    "average": "C",
+    "year": "1st"
+  },
+  {
+    "course": "BMS201",
+    "title": "Information Literacy, Writing, and Research for Book & Media Studies",
+    "campus": "UTSG",
+    "semester": "Winter 2023",
+    "average": "C",
+    "year": "2nd"
+  },
+  {
+    "course": "HMB204",
+    "title": "Introduction to Human Biology",
+    "campus": "UTSG",
+    "semester": "Winter 2023",
+    "average": "B",
+    "year": "2nd"
+  },
+  {
+    "course": "PSL301",
+    "title": "Human Physiology II",
+    "campus": "UTSG",
+    "semester": "Winter 2023",
+    "average": "B-",
+    "year": "3rd"
+  },
+  {
+    "course": "PSY201",
+    "title": "Statistics I",
+    "campus": "UTSG",
+    "semester": "Winter 2023",
+    "average": "B-",
+    "year": "2nd"
+  },
+  {
+    "course": "HIS314",
+    "title": "Language, Empire, and Encounter in Francophone Canada",
+    "campus": "UTSG",
+    "semester": "Winter 2022",
+    "average": "B+",
+    "year": "3rd"
+  },
+  {
+    "course": "MAT390",
+    "title": "History of Mathematics up to 1700",
+    "campus": "UTSG",
+    "semester": "Fall 2022",
+    "average": "C+",
+    "year": "3rd"
+  },
+  {
+    "course": "HIS264",
+    "title": "Critical Issues in Canadian History",
+    "campus": "UTSG",
+    "semester": "Fall 2022",
+    "average": "B",
+    "year": "2nd"
+  },
+  {
+    "course": "HIS271Y",
+    "title": "American History Since 1607",
+    "campus": "UTSG",
+    "semester": "Fall 2022 - Winter 2023",
+    "average": "B-",
+    "year": "2nd"
+  },
+  {
+    "course": "HIS349",
+    "title": "History of Britain: Struggle for Power",
+    "campus": "UTSG",
+    "semester": "Winter 2023",
+    "average": "B-",
+    "year": "3rd"
+  },
+  {
+    "course": "HMB203",
+    "title": "Introduction to Global Health",
+    "campus": "UTSG",
+    "semester": "Winter 2023",
+    "average": "B",
+    "year": "2nd"
+  },
+  {
+    "course": "ENG150Y",
+    "title": "Literary Traditions",
+    "campus": "UTSG",
+    "semester": "Fall 2022 - Winter 2023",
+    "average": "B-",
+    "year": "1st"
+  },
+  {
+    "course": "AST251",
+    "title": "Life on Other Worlds",
+    "campus": "UTSG",
+    "semester": "Winter 2023",
+    "average": "B",
+    "year": "2nd"
+  },
+  {
+    "course": "FSL220",
+    "title": "Intermediate French I",
+    "campus": "UTSG",
+    "semester": "Winter 2023",
+    "average": "B-",
+    "year": "2nd"
+  },
+  {
     "course": "CSCA48",
     "title": "Introduction to Computer Science II",
     "campus": "UTSC",
@@ -4422,29 +5006,5 @@
     "semester": "Winter 2023",
     "average": "B+",
     "year": "1st"
-  },
-  {
-    "course": "HIS250",
-    "title": "History of Russia",
-    "campus": "UTSG",
-    "semester": "Fall 2022 - Winter 2023",
-    "average": "C+",
-    "year": "2nd"
-  },
-  {
-    "course": "HIS328",
-    "title": "Modern China",
-    "campus": "UTSG",
-    "semester": "Winter 2023",
-    "average": "B",
-    "year": "3rd"
-  },
-  {
-    "course": "HIS331",
-    "title": "Modern Baltic History",
-    "campus": "UTSG",
-    "semester": "Fall 2022",
-    "average": "B-",
-    "year": "3rd"
   }
 ]
