@@ -8,7 +8,7 @@
   <h1>UofT Courses Database</h1>
 
   <h2 style="margin-bottom: 0;">Filters</h2>
-  <form id="filters" style="padding-left: 10%;">
+  <form id="filters">
     <div style="grid-column: 1 / 2;">
       <h4 style="margin-bottom: 0;">Campus</h4>
       <div *ngFor="let campus of campusesData">
@@ -32,10 +32,10 @@
 
   <mat-form-field class="center">
     <mat-label>Search</mat-label>
-    <input matInput [(ngModel)]="searchQuery" (input)="applyFilter()" placeholder="e.g. CSC148" #input>
+    <input id="searchBar" matInput [(ngModel)]="searchQuery" (input)="applyFilter()" placeholder="e.g. CSC148" #input>
   </mat-form-field>
 
-  <div id="table" class="center" style="width: 70%;">
+  <div id="table" class="center">
     <table class="ElegantBlue mat-elevation-z8" mat-table [dataSource]="dataSource" matSort>
       <ng-container matColumnDef="course">
         <th class="header" mat-header-cell *matHeaderCellDef mat-sort-header> Course </th>
